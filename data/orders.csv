@@ -1,0 +1,1001 @@
+order_id,customer_name,product,category,region,courier,price,order_date,expected_delivery,actual_delivery,status,severity,delay_days
+ORD-0001,Riya Brahmbhatt,Electronics Item 32,Electronics,North,Indian Postal Service,59956.96,2026-05-11,2026-05-14,2026-05-12,Delivered,None,0
+ORD-0002,Ojasvi Mall,Lifestyle Item 63,Lifestyle,North,Ecom Express,12829.13,2026-04-17,2026-04-23,2026-04-22,Delivered,None,0
+ORD-0003,Niharika Boase,Home Item 17,Home,Central,Ecom Express,75529.39,2026-05-15,2026-05-19,2026-05-20,Delayed,Low,1
+ORD-0004,Yoshita Balasubramanian,Jewelry Item 93,Jewelry,South,Indian Postal Service,7810.8,2026-05-22,2026-05-27,2026-05-27,Delivered,None,0
+ORD-0005,Triya Chakraborty,Entertainment Item 87,Entertainment,South,Ecom Express,251.89,2026-05-06,2026-05-13,2026-05-11,Delivered,None,0
+ORD-0006,Advika Sehgal,Beauty Item 80,Beauty,South,Delhivery,2790.34,2026-05-31,2026-06-03,2026-06-05,Delayed,Low,2
+ORD-0007,Aditya Gaba,Home Item 63,Home,East,Shipped by Amazon,76469.49,2026-04-20,2026-04-27,2026-05-01,Delayed,Medium,4
+ORD-0008,Mahika Vasa,Lifestyle Item 5,Lifestyle,Central,Ecom Express,23822.6,2026-04-30,2026-05-06,,In Transit,None,0
+ORD-0009,Qushi Swamy,Home Item 97,Home,East,Bluedart,31568.99,2026-04-10,2026-04-16,2026-04-14,Delivered,None,0
+ORD-0010,Anya Borde,Beauty Item 49,Beauty,East,Ecom Express,2468.3,2026-05-30,2026-06-05,2026-06-20,Delayed,Critical,15
+ORD-0011,Idika Dubey,Kitchen Item 51,Kitchen,West,Shadowfax,10120.09,2026-05-10,2026-05-15,2026-05-14,Delivered,None,0
+ORD-0012,Saanvi Dugal,Beauty Item 72,Beauty,South,Indian Postal Service,7057.28,2026-05-23,2026-05-28,2026-05-31,Delayed,Medium,3
+ORD-0013,Amol Kant,Apparel Item 50,Apparel,South,Bluedart,10701.08,2026-04-11,2026-04-18,2026-04-16,Delivered,None,0
+ORD-0014,Girish Talwar,Electronics Item 9,Electronics,Central,Indian Postal Service,24735.11,2026-05-08,2026-05-15,2026-05-14,Delivered,None,0
+ORD-0015,Yagnesh Gulati,Entertainment Item 80,Entertainment,Central,Bluedart,2788.11,2026-04-26,2026-05-02,2026-05-09,Delayed,Critical,7
+ORD-0016,Lakshmi Chand,Watches Item 59,Watches,North,Ecom Express,38232.14,2026-05-21,2026-05-25,,Stale,High,0
+ORD-0017,Elijah Kant,Kids Item 38,Kids,South,Bluedart,15020.33,2026-04-30,2026-05-06,2026-05-05,Delivered,None,0
+ORD-0018,Shaurya Lad,Jewelry Item 46,Jewelry,West,Delhivery,4753.18,2026-04-14,2026-04-20,2026-04-18,Delivered,None,0
+ORD-0019,Charvi Nigam,Kitchen Item 24,Kitchen,North,Indian Postal Service,10395.63,2026-05-10,2026-05-14,2026-05-14,Delivered,None,0
+ORD-0020,Devika Boase,Watches Item 2,Watches,Central,Shipped by Amazon,18897.67,2026-05-15,2026-05-21,2026-05-21,Delivered,None,0
+ORD-0021,Qasim Bhakta,Entertainment Item 27,Entertainment,North,Delhivery,1033.96,2026-06-03,2026-06-10,2026-06-08,Delivered,None,0
+ORD-0022,Chandresh Grover,Lifestyle Item 35,Lifestyle,West,Indian Postal Service,16628.62,2026-05-13,2026-05-19,2026-05-19,Delivered,None,0
+ORD-0023,Akshay Nath,Health Item 18,Health,Central,Bluedart,16168.2,2026-05-18,2026-05-22,2026-05-22,Delivered,None,0
+ORD-0024,Ekiya Chawla,Apparel Item 39,Apparel,North,Bluedart,13277.38,2026-04-16,2026-04-21,,In Transit,None,0
+ORD-0025,Chatura Apte,Jewelry Item 32,Jewelry,West,Delhivery,6601.43,2026-05-28,2026-06-04,2026-06-03,Delivered,None,0
+ORD-0026,Kashvi Lalla,Apparel Item 67,Apparel,East,Shadowfax,11583.55,2026-05-13,2026-05-19,2026-05-17,Delivered,None,0
+ORD-0027,Rachit Salvi,Entertainment Item 5,Entertainment,South,Shadowfax,733.35,2026-05-20,2026-05-25,2026-05-23,Delivered,None,0
+ORD-0028,Harshil Manda,Entertainment Item 37,Entertainment,North,Delhivery,300.27,2026-04-22,2026-04-29,2026-04-28,Delivered,None,0
+ORD-0029,Rohan Datta,Jewelry Item 46,Jewelry,West,Shipped by Amazon,2328.7,2026-06-04,2026-06-08,2026-06-08,Delivered,None,0
+ORD-0030,Vedant Mallick,Watches Item 19,Watches,West,Indian Postal Service,35188.62,2026-05-15,2026-05-19,,In Transit,None,0
+ORD-0031,Simon Sarraf,Home Item 97,Home,Central,Bluedart,35013.73,2026-05-18,2026-05-21,2026-05-20,Delivered,None,0
+ORD-0032,Gopal Kumar,Jewelry Item 61,Jewelry,East,Indian Postal Service,6412.11,2026-06-02,2026-06-07,2026-06-06,Delivered,None,0
+ORD-0033,Lucky Swamy,Entertainment Item 38,Entertainment,Central,Indian Postal Service,1511.42,2026-04-09,2026-04-12,2026-04-11,Delivered,None,0
+ORD-0034,Geetika Raval,Health Item 29,Health,West,Shipped by Amazon,20525.61,2026-05-11,2026-05-18,2026-05-18,Delivered,None,0
+ORD-0035,Dominic Dara,Entertainment Item 85,Entertainment,South,Indian Postal Service,1776.1,2026-06-06,2026-06-09,2026-06-12,Delayed,Medium,3
+ORD-0036,Amrita Sethi,Electronics Item 23,Electronics,West,Indian Postal Service,3378.55,2026-04-27,2026-04-30,2026-05-10,Delayed,Critical,10
+ORD-0037,Reyansh Agate,Electronics Item 31,Electronics,North,Ecom Express,54154.96,2026-06-04,2026-06-11,2026-06-11,Delivered,None,0
+ORD-0038,Kamya Chandra,Entertainment Item 91,Entertainment,East,Indian Postal Service,1027.24,2026-05-21,2026-05-25,2026-05-24,Delivered,None,0
+ORD-0039,Aarini Sekhon,Jewelry Item 15,Jewelry,East,Delhivery,1234.73,2026-04-09,2026-04-12,2026-04-12,Delivered,None,0
+ORD-0040,Chandresh Rout,Kids Item 87,Kids,Central,Ecom Express,18238.79,2026-04-19,2026-04-25,2026-04-24,Delivered,None,0
+ORD-0041,Bachittar Sur,Kitchen Item 4,Kitchen,East,Shadowfax,7772.51,2026-05-08,2026-05-13,2026-05-24,Delayed,Critical,11
+ORD-0042,Bhavna Prashad,Watches Item 64,Watches,South,Bluedart,28450.88,2026-06-03,2026-06-09,2026-06-07,Delivered,None,0
+ORD-0043,Varsha Grewal,Jewelry Item 90,Jewelry,Central,Delhivery,5365.22,2026-05-10,2026-05-16,,In Transit,None,0
+ORD-0044,Daniel Singhal,Health Item 39,Health,North,Indian Postal Service,640.69,2026-04-21,2026-04-25,2026-04-23,Delivered,None,0
+ORD-0045,Aishani Naidu,Beauty Item 100,Beauty,South,Ecom Express,8061.23,2026-04-26,2026-04-30,2026-04-30,Delivered,None,0
+ORD-0046,Jagrati Dugar,Electronics Item 96,Electronics,West,Shipped by Amazon,39563.03,2026-05-20,2026-05-23,2026-05-21,Delivered,None,0
+ORD-0047,Vamakshi Sachdeva,Home Item 73,Home,Central,Ecom Express,98302.66,2026-05-26,2026-05-29,2026-05-29,Delivered,None,0
+ORD-0048,Krishna Dey,Electronics Item 96,Electronics,North,Delhivery,22832.64,2026-04-16,2026-04-23,2026-04-22,Delivered,None,0
+ORD-0049,Bimala Luthra,Jewelry Item 69,Jewelry,South,Shadowfax,1509.02,2026-05-19,2026-05-22,2026-05-20,Delivered,None,0
+ORD-0050,Yatan Dara,Entertainment Item 95,Entertainment,East,Indian Postal Service,1085.07,2026-04-22,2026-04-26,,In Transit,None,0
+ORD-0051,Reva Madan,Beauty Item 46,Beauty,West,Shadowfax,8234.31,2026-04-25,2026-05-01,2026-05-01,Delivered,None,0
+ORD-0052,Agastya Sarma,Entertainment Item 67,Entertainment,Central,Shipped by Amazon,2424.74,2026-05-07,2026-05-14,2026-05-28,Delayed,Critical,14
+ORD-0053,Janya Rao,Beauty Item 41,Beauty,Central,Ecom Express,699.89,2026-05-07,2026-05-11,2026-05-25,Delayed,Critical,14
+ORD-0054,Nidhi Jani,Jewelry Item 96,Jewelry,North,Shipped by Amazon,8114.67,2026-05-25,2026-05-31,2026-06-08,Delayed,Critical,8
+ORD-0055,Eesha Dugar,Kids Item 22,Kids,East,Shadowfax,15116.01,2026-05-15,2026-05-20,2026-05-19,Delivered,None,0
+ORD-0056,Luke Sarraf,Lifestyle Item 9,Lifestyle,South,Ecom Express,24845.42,2026-05-03,2026-05-06,2026-05-06,Delivered,None,0
+ORD-0057,Aadi Varma,Kids Item 85,Kids,West,Indian Postal Service,6228.04,2026-06-06,2026-06-09,2026-06-08,Delivered,None,0
+ORD-0058,Caleb Nayar,Electronics Item 100,Electronics,West,Shipped by Amazon,18263.01,2026-05-10,2026-05-16,2026-05-31,Delayed,Critical,15
+ORD-0059,Farhan Prabhu,Kids Item 71,Kids,North,Delhivery,639.68,2026-04-08,2026-04-14,2026-04-13,Delivered,None,0
+ORD-0060,Yasti Bedi,Beauty Item 43,Beauty,West,Shadowfax,8098.98,2026-05-01,2026-05-05,2026-05-03,Delivered,None,0
+ORD-0061,Panini Manda,Kitchen Item 28,Kitchen,North,Shadowfax,4545.5,2026-05-28,2026-06-02,,In Transit,None,0
+ORD-0062,Gaurang Nayak,Health Item 94,Health,East,Bluedart,11501.17,2026-06-01,2026-06-07,2026-06-05,Delivered,None,0
+ORD-0063,Jack Ravel,Entertainment Item 86,Entertainment,West,Shipped by Amazon,1585.3,2026-05-22,2026-05-26,2026-05-25,Delivered,None,0
+ORD-0064,Girindra Dey,Apparel Item 77,Apparel,West,Delhivery,13563.15,2026-05-12,2026-05-15,2026-05-13,Delivered,None,0
+ORD-0065,Vaishnavi Chad,Jewelry Item 76,Jewelry,West,Delhivery,828.29,2026-04-12,2026-04-15,2026-04-15,Delivered,None,0
+ORD-0066,Peter Din,Watches Item 61,Watches,North,Ecom Express,41847.31,2026-04-22,2026-04-27,2026-04-25,Delivered,None,0
+ORD-0067,Ekansh Menon,Kitchen Item 3,Kitchen,East,Ecom Express,3661.76,2026-05-06,2026-05-12,2026-05-27,Delayed,Critical,15
+ORD-0068,Darika Thakur,Health Item 37,Health,East,Bluedart,19184.35,2026-05-30,2026-06-03,2026-06-02,Delivered,None,0
+ORD-0069,Hemang Wason,Entertainment Item 76,Entertainment,West,Delhivery,548.49,2026-05-02,2026-05-06,2026-05-05,Delivered,None,0
+ORD-0070,Reva Khurana,Beauty Item 17,Beauty,West,Indian Postal Service,6068.96,2026-05-12,2026-05-18,2026-05-16,Delivered,None,0
+ORD-0071,Raksha Subramaniam,Watches Item 51,Watches,South,Shipped by Amazon,8055.01,2026-05-05,2026-05-09,2026-05-07,Delivered,None,0
+ORD-0072,Guneet Pandya,Home Item 33,Home,North,Bluedart,39633.22,2026-05-07,2026-05-13,2026-05-13,Delivered,None,0
+ORD-0073,Omkaar Kala,Apparel Item 66,Apparel,West,Delhivery,12377.25,2026-05-08,2026-05-12,2026-05-11,Delivered,None,0
+ORD-0074,Mugdha Misra,Kids Item 27,Kids,North,Bluedart,3892.62,2026-06-04,2026-06-11,2026-06-09,Delivered,None,0
+ORD-0075,Samaksh Chada,Electronics Item 58,Electronics,South,Shipped by Amazon,9056.79,2026-05-03,2026-05-08,2026-05-07,Delivered,None,0
+ORD-0076,Aarna Gour,Jewelry Item 35,Jewelry,West,Ecom Express,5231.52,2026-05-13,2026-05-17,2026-05-17,Delivered,None,0
+ORD-0077,Gauri Jha,Jewelry Item 54,Jewelry,East,Bluedart,9155.14,2026-04-29,2026-05-02,2026-05-02,Delivered,None,0
+ORD-0078,Vedika Walla,Beauty Item 54,Beauty,South,Ecom Express,9517.24,2026-05-14,2026-05-20,2026-05-20,Delivered,None,0
+ORD-0079,Karan Bawa,Beauty Item 87,Beauty,South,Delhivery,2847.88,2026-05-05,2026-05-08,2026-05-06,Delivered,None,0
+ORD-0080,Mohammed Jayaraman,Kitchen Item 57,Kitchen,Central,Shadowfax,11526.05,2026-04-28,2026-05-05,2026-05-03,Delivered,None,0
+ORD-0081,Kamya Saraf,Watches Item 82,Watches,Central,Shipped by Amazon,9108.08,2026-05-31,2026-06-07,2026-06-06,Delivered,None,0
+ORD-0082,Aditya Anand,Entertainment Item 39,Entertainment,North,Delhivery,2932.71,2026-04-19,2026-04-26,2026-05-04,Delayed,Critical,8
+ORD-0083,Dalaja Thaman,Entertainment Item 70,Entertainment,North,Shadowfax,1563.05,2026-05-09,2026-05-12,2026-05-11,Delivered,None,0
+ORD-0084,Nisha Sule,Health Item 60,Health,North,Indian Postal Service,15928.31,2026-05-19,2026-05-26,2026-05-26,Delivered,None,0
+ORD-0085,Anya Hari,Health Item 67,Health,West,Indian Postal Service,14607.44,2026-05-10,2026-05-14,2026-05-12,Delivered,None,0
+ORD-0086,Samuel Kohli,Beauty Item 98,Beauty,East,Indian Postal Service,1936.3,2026-04-29,2026-05-04,2026-05-02,Delivered,None,0
+ORD-0087,Ojas Luthra,Entertainment Item 4,Entertainment,North,Delhivery,414.17,2026-04-30,2026-05-04,2026-05-03,Delivered,None,0
+ORD-0088,Damini Devan,Beauty Item 80,Beauty,North,Shadowfax,7878.55,2026-05-19,2026-05-24,2026-05-23,Delivered,None,0
+ORD-0089,Bimala Tank,Kids Item 42,Kids,North,Delhivery,10882.46,2026-05-02,2026-05-08,,Stale,High,0
+ORD-0090,Hemangini Amble,Home Item 10,Home,West,Shadowfax,35778.12,2026-05-08,2026-05-14,2026-05-14,Delivered,None,0
+ORD-0091,Urmi Chakraborty,Home Item 99,Home,Central,Shadowfax,12869.05,2026-04-16,2026-04-23,2026-04-21,Delivered,None,0
+ORD-0092,Hardik Dalal,Electronics Item 40,Electronics,Central,Ecom Express,30231.52,2026-04-09,2026-04-14,2026-04-23,Delayed,Critical,9
+ORD-0093,Samar Ghose,Apparel Item 57,Apparel,North,Shipped by Amazon,8897.17,2026-05-28,2026-06-02,2026-06-02,Delivered,None,0
+ORD-0094,Bhavna Babu,Lifestyle Item 15,Lifestyle,Central,Ecom Express,2987.89,2026-05-28,2026-06-01,2026-06-09,Delayed,Critical,8
+ORD-0095,Xiti Zacharia,Electronics Item 77,Electronics,Central,Bluedart,3250.13,2026-04-23,2026-04-30,2026-04-30,Delivered,None,0
+ORD-0096,Anjali Hayer,Electronics Item 11,Electronics,Central,Indian Postal Service,20422.35,2026-05-25,2026-05-28,2026-05-27,Delivered,None,0
+ORD-0097,Ishani Borra,Kids Item 79,Kids,South,Bluedart,13353.14,2026-04-25,2026-04-29,2026-04-29,Delivered,None,0
+ORD-0098,Ekiya Jayaraman,Electronics Item 88,Electronics,West,Shipped by Amazon,72453.4,2026-06-06,2026-06-10,2026-06-10,Delivered,None,0
+ORD-0099,Bhavani Yogi,Electronics Item 58,Electronics,East,Ecom Express,47967.44,2026-04-13,2026-04-19,2026-04-19,Delivered,None,0
+ORD-0100,Mason Bumb,Apparel Item 8,Apparel,West,Bluedart,8436.04,2026-05-28,2026-05-31,2026-06-01,Delayed,Low,1
+ORD-0101,Om Saraf,Entertainment Item 60,Entertainment,Central,Delhivery,728.92,2026-06-02,2026-06-06,2026-06-06,Delivered,None,0
+ORD-0102,Siya Narayanan,Apparel Item 33,Apparel,Central,Shadowfax,5256.85,2026-04-28,2026-05-01,2026-04-29,Delivered,None,0
+ORD-0103,Ekta Sarna,Jewelry Item 37,Jewelry,East,Bluedart,3985.38,2026-04-16,2026-04-23,2026-04-23,Delivered,None,0
+ORD-0104,Yashica Luthra,Health Item 31,Health,East,Shadowfax,23704.16,2026-05-06,2026-05-10,2026-05-08,Delivered,None,0
+ORD-0105,Amrita Narula,Kids Item 32,Kids,Central,Ecom Express,3319.17,2026-05-01,2026-05-07,,Stale,High,0
+ORD-0106,Wyatt Uppal,Beauty Item 30,Beauty,South,Shipped by Amazon,4841.75,2026-04-08,2026-04-14,2026-04-13,Delivered,None,0
+ORD-0107,Samar Kalla,Kids Item 41,Kids,Central,Bluedart,11170.1,2026-05-14,2026-05-17,2026-05-16,Delivered,None,0
+ORD-0108,Patrick Luthra,Electronics Item 53,Electronics,South,Indian Postal Service,73715.4,2026-05-19,2026-05-24,2026-06-01,Delayed,Critical,8
+ORD-0109,Raagini Dugar,Lifestyle Item 38,Lifestyle,South,Bluedart,3044.56,2026-05-01,2026-05-07,2026-05-05,Delivered,None,0
+ORD-0110,Chaitaly Bains,Watches Item 92,Watches,East,Shadowfax,21686.07,2026-04-11,2026-04-18,2026-04-18,Delivered,None,0
+ORD-0111,Anvi Devan,Kids Item 76,Kids,West,Bluedart,15554.93,2026-04-28,2026-05-02,,Stale,High,0
+ORD-0112,Krishna Thakkar,Apparel Item 41,Apparel,Central,Bluedart,1229.04,2026-05-25,2026-05-31,2026-05-29,Delivered,None,0
+ORD-0113,Vanya Gera,Jewelry Item 26,Jewelry,South,Ecom Express,1498.1,2026-04-19,2026-04-25,2026-04-24,Delivered,None,0
+ORD-0114,Urvashi Chauhan,Beauty Item 79,Beauty,South,Delhivery,425.02,2026-05-26,2026-05-30,2026-05-28,Delivered,None,0
+ORD-0115,Tanvi Chawla,Kitchen Item 5,Kitchen,East,Delhivery,10920.46,2026-04-22,2026-04-28,2026-04-26,Delivered,None,0
+ORD-0116,Ikshita Mann,Apparel Item 79,Apparel,South,Shadowfax,2451.01,2026-06-05,2026-06-09,2026-06-21,Delayed,Critical,12
+ORD-0117,Sarthak Khanna,Home Item 88,Home,South,Indian Postal Service,2584.44,2026-05-23,2026-05-29,2026-05-28,Delivered,None,0
+ORD-0118,Pranit Deshmukh,Health Item 94,Health,West,Delhivery,8673.12,2026-05-31,2026-06-07,2026-06-05,Delivered,None,0
+ORD-0119,Edhitha Bala,Apparel Item 90,Apparel,South,Shipped by Amazon,8852.3,2026-05-31,2026-06-06,2026-06-04,Delivered,None,0
+ORD-0120,Daksha Ghose,Apparel Item 94,Apparel,North,Ecom Express,13963.81,2026-05-02,2026-05-06,2026-05-05,Delivered,None,0
+ORD-0121,Mekhala Krish,Kitchen Item 41,Kitchen,North,Shadowfax,19569.39,2026-04-12,2026-04-16,,In Transit,None,0
+ORD-0122,Finn Munshi,Apparel Item 92,Apparel,North,Indian Postal Service,10496.86,2026-05-17,2026-05-22,2026-05-22,Delivered,None,0
+ORD-0123,Raagini Madan,Watches Item 93,Watches,Central,Indian Postal Service,37118.72,2026-05-15,2026-05-22,2026-05-22,Delivered,None,0
+ORD-0124,Aradhana Varkey,Watches Item 79,Watches,East,Delhivery,799.44,2026-05-10,2026-05-16,2026-05-14,Delivered,None,0
+ORD-0125,Kamya Seth,Home Item 7,Home,East,Delhivery,22687.35,2026-04-11,2026-04-15,2026-04-13,Delivered,None,0
+ORD-0126,Gaurangi Singhal,Apparel Item 9,Apparel,East,Shipped by Amazon,2645.25,2026-04-21,2026-04-25,2026-04-24,Delivered,None,0
+ORD-0127,Abdul Modi,Home Item 71,Home,West,Indian Postal Service,32806.77,2026-06-01,2026-06-06,2026-06-09,Delayed,Medium,3
+ORD-0128,Rushil Krishnan,Kitchen Item 8,Kitchen,West,Bluedart,6547.83,2026-05-22,2026-05-26,2026-05-24,Delivered,None,0
+ORD-0129,Aarna Nanda,Kids Item 47,Kids,East,Shadowfax,9563.51,2026-06-04,2026-06-08,2026-06-08,Delivered,None,0
+ORD-0130,Samuel Naik,Jewelry Item 13,Jewelry,North,Indian Postal Service,6156.43,2026-06-02,2026-06-09,2026-06-09,Delivered,None,0
+ORD-0131,Rajeshri Rajagopal,Electronics Item 9,Electronics,Central,Indian Postal Service,18666.79,2026-06-02,2026-06-09,2026-06-09,Delivered,None,0
+ORD-0132,Vanya Madan,Apparel Item 52,Apparel,Central,Ecom Express,4369.02,2026-05-09,2026-05-15,2026-05-18,Delayed,Medium,3
+ORD-0133,Osha Jain,Apparel Item 36,Apparel,North,Shipped by Amazon,5477.58,2026-04-26,2026-05-02,2026-04-30,Delivered,None,0
+ORD-0134,Jai Reddy,Kitchen Item 1,Kitchen,South,Shipped by Amazon,2157.76,2026-04-15,2026-04-19,2026-04-29,Delayed,Critical,10
+ORD-0135,Yashodhara Rout,Lifestyle Item 44,Lifestyle,Central,Delhivery,20077.01,2026-04-16,2026-04-21,2026-05-04,Delayed,Critical,13
+ORD-0136,Nidhi Sharaf,Beauty Item 76,Beauty,North,Shipped by Amazon,3699.59,2026-06-04,2026-06-11,2026-06-10,Delivered,None,0
+ORD-0137,Advaith Rattan,Home Item 27,Home,Central,Shipped by Amazon,2135.54,2026-06-04,2026-06-07,2026-06-20,Delayed,Critical,13
+ORD-0138,Chanakya Dey,Entertainment Item 75,Entertainment,South,Ecom Express,875.7,2026-04-29,2026-05-06,2026-05-15,Delayed,Critical,9
+ORD-0139,Qarin Amble,Entertainment Item 2,Entertainment,Central,Bluedart,2246.75,2026-04-13,2026-04-17,2026-04-15,Delivered,None,0
+ORD-0140,Lakshmi Chakraborty,Entertainment Item 73,Entertainment,East,Bluedart,904.64,2026-05-22,2026-05-29,2026-06-08,Delayed,Critical,10
+ORD-0141,Waida Buch,Entertainment Item 46,Entertainment,Central,Ecom Express,1628.49,2026-04-29,2026-05-04,2026-05-02,Delivered,None,0
+ORD-0142,Abhiram Raju,Home Item 67,Home,North,Shipped by Amazon,5312.88,2026-05-23,2026-05-27,2026-06-01,Delayed,High,5
+ORD-0143,Zaid Mahal,Entertainment Item 83,Entertainment,West,Ecom Express,2035.69,2026-05-25,2026-06-01,2026-05-31,Delivered,None,0
+ORD-0144,Aahana Nori,Entertainment Item 3,Entertainment,North,Shipped by Amazon,1661.82,2026-05-13,2026-05-17,,In Transit,None,0
+ORD-0145,Arin Keer,Health Item 59,Health,East,Ecom Express,15337.46,2026-04-11,2026-04-16,2026-04-15,Delivered,None,0
+ORD-0146,Qasim Nadkarni,Electronics Item 99,Electronics,North,Indian Postal Service,8882.36,2026-06-03,2026-06-08,2026-06-08,Delivered,None,0
+ORD-0147,Megha Mukhopadhyay,Kitchen Item 68,Kitchen,South,Ecom Express,15024.12,2026-04-14,2026-04-20,2026-04-18,Delivered,None,0
+ORD-0148,Chandani Kata,Health Item 37,Health,North,Delhivery,10269.91,2026-04-17,2026-04-20,2026-04-19,Delivered,None,0
+ORD-0149,Chameli Kulkarni,Home Item 88,Home,West,Ecom Express,65668.61,2026-04-20,2026-04-26,2026-04-25,Delivered,None,0
+ORD-0150,Madhavi Kara,Watches Item 17,Watches,West,Bluedart,18631.17,2026-05-12,2026-05-17,2026-05-17,Delivered,None,0
+ORD-0151,Odika Roy,Kids Item 44,Kids,East,Delhivery,2643.63,2026-05-05,2026-05-08,2026-05-08,Delivered,None,0
+ORD-0152,Shaurya Goyal,Entertainment Item 64,Entertainment,North,Shipped by Amazon,1648.69,2026-05-26,2026-06-02,2026-06-02,Delivered,None,0
+ORD-0153,Chaitaly Prabhu,Apparel Item 34,Apparel,Central,Shipped by Amazon,9453.53,2026-05-15,2026-05-22,2026-05-21,Delivered,None,0
+ORD-0154,Jagvi Narayanan,Lifestyle Item 19,Lifestyle,North,Delhivery,12457.11,2026-05-15,2026-05-20,2026-05-27,Delayed,Critical,7
+ORD-0155,Tripti Samra,Entertainment Item 65,Entertainment,North,Indian Postal Service,1891.44,2026-04-12,2026-04-16,2026-04-14,Delivered,None,0
+ORD-0156,Varsha Vora,Jewelry Item 94,Jewelry,North,Shipped by Amazon,7718.86,2026-04-23,2026-04-30,2026-04-29,Delivered,None,0
+ORD-0157,Darsh Morar,Health Item 6,Health,South,Ecom Express,15291.92,2026-05-28,2026-06-02,2026-06-01,Delivered,None,0
+ORD-0158,Daksha Mahal,Health Item 23,Health,East,Shipped by Amazon,22127.7,2026-04-10,2026-04-16,2026-04-16,Delivered,None,0
+ORD-0159,Nihal Morar,Kids Item 70,Kids,Central,Ecom Express,10530.48,2026-06-06,2026-06-11,2026-06-11,Delivered,None,0
+ORD-0160,Akshay Bajwa,Home Item 18,Home,South,Indian Postal Service,27889.94,2026-04-22,2026-04-26,2026-05-01,Delayed,High,5
+ORD-0161,Amol Baria,Beauty Item 29,Beauty,West,Shadowfax,6535.45,2026-05-04,2026-05-09,2026-05-07,Delivered,None,0
+ORD-0162,George Warrior,Kitchen Item 15,Kitchen,South,Delhivery,5278.7,2026-05-06,2026-05-10,2026-05-09,Delivered,None,0
+ORD-0163,Vansha Bora,Entertainment Item 84,Entertainment,West,Bluedart,577.19,2026-05-27,2026-06-03,2026-06-03,Delivered,None,0
+ORD-0164,Faqid Shah,Jewelry Item 5,Jewelry,North,Shadowfax,7663.97,2026-05-13,2026-05-16,,In Transit,None,0
+ORD-0165,Pooja D’Alia,Apparel Item 2,Apparel,South,Ecom Express,5784.47,2026-05-17,2026-05-22,2026-06-06,Delayed,Critical,15
+ORD-0166,Victor Tak,Kitchen Item 6,Kitchen,Central,Shadowfax,9305.92,2026-04-30,2026-05-04,2026-05-17,Delayed,Critical,13
+ORD-0167,Unnati Babu,Beauty Item 40,Beauty,South,Shadowfax,5014.34,2026-05-06,2026-05-11,2026-05-20,Delayed,Critical,9
+ORD-0168,Jonathan Shanker,Jewelry Item 51,Jewelry,Central,Ecom Express,2624.14,2026-05-12,2026-05-15,2026-05-14,Delivered,None,0
+ORD-0169,Girindra Kakar,Apparel Item 67,Apparel,Central,Indian Postal Service,6984.2,2026-04-23,2026-04-30,2026-04-29,Delivered,None,0
+ORD-0170,Aahana Varghese,Health Item 6,Health,South,Delhivery,3320.12,2026-04-20,2026-04-26,,In Transit,None,0
+ORD-0171,Amol Singhal,Lifestyle Item 16,Lifestyle,West,Indian Postal Service,23116.84,2026-04-29,2026-05-04,2026-05-02,Delivered,None,0
+ORD-0172,Peter Mohan,Beauty Item 3,Beauty,West,Bluedart,2504.82,2026-05-01,2026-05-06,2026-05-04,Delivered,None,0
+ORD-0173,Avni Sandal,Home Item 77,Home,South,Indian Postal Service,70344.85,2026-05-29,2026-06-01,2026-05-31,Delivered,None,0
+ORD-0174,Andrew Shere,Beauty Item 16,Beauty,North,Shadowfax,7876.93,2026-05-08,2026-05-13,2026-05-11,Delivered,None,0
+ORD-0175,Aachal Karnik,Home Item 31,Home,South,Ecom Express,39378.94,2026-05-21,2026-05-28,2026-05-28,Delivered,None,0
+ORD-0176,Jai Rege,Beauty Item 26,Beauty,North,Bluedart,8463.49,2026-06-01,2026-06-04,2026-06-03,Delivered,None,0
+ORD-0177,Lopa Bhalla,Jewelry Item 43,Jewelry,West,Indian Postal Service,1518.01,2026-04-08,2026-04-12,2026-04-12,Delivered,None,0
+ORD-0178,Hamsini Nadig,Kitchen Item 91,Kitchen,East,Shadowfax,8284.06,2026-04-15,2026-04-21,2026-04-19,Delivered,None,0
+ORD-0179,Harinakshi Babu,Beauty Item 72,Beauty,South,Shipped by Amazon,4025.72,2026-06-06,2026-06-12,2026-06-16,Delayed,Medium,4
+ORD-0180,Falak More,Home Item 89,Home,West,Indian Postal Service,8775.98,2026-05-06,2026-05-10,2026-05-09,Delivered,None,0
+ORD-0181,Wishi Dyal,Home Item 66,Home,North,Delhivery,10969.79,2026-06-01,2026-06-04,2026-06-02,Delivered,None,0
+ORD-0182,Tanay Dave,Home Item 57,Home,South,Delhivery,72954.48,2026-04-15,2026-04-21,2026-05-05,Delayed,Critical,14
+ORD-0183,Naksh Das,Health Item 59,Health,South,Ecom Express,9650.91,2026-04-25,2026-04-28,2026-04-28,Delivered,None,0
+ORD-0184,Jhalak Contractor,Entertainment Item 19,Entertainment,South,Delhivery,2545.63,2026-05-26,2026-05-31,2026-05-30,Delivered,None,0
+ORD-0185,Manya Bala,Kids Item 93,Kids,West,Ecom Express,809.07,2026-05-02,2026-05-07,2026-05-16,Delayed,Critical,9
+ORD-0186,Harsh Sani,Health Item 51,Health,Central,Delhivery,10341.36,2026-05-09,2026-05-14,2026-05-23,Delayed,Critical,9
+ORD-0187,Yashodhara Shankar,Jewelry Item 50,Jewelry,East,Delhivery,9466.9,2026-04-19,2026-04-22,2026-04-22,Delivered,None,0
+ORD-0188,Urvi Chakraborty,Jewelry Item 2,Jewelry,East,Shipped by Amazon,6941.34,2026-05-21,2026-05-24,,Stale,High,0
+ORD-0189,Ishaan Bhavsar,Electronics Item 38,Electronics,West,Bluedart,40591.45,2026-06-02,2026-06-05,2026-06-04,Delivered,None,0
+ORD-0190,Waida Babu,Watches Item 40,Watches,North,Bluedart,10622.47,2026-05-29,2026-06-01,2026-05-31,Delivered,None,0
+ORD-0191,Ijaya Singhal,Apparel Item 54,Apparel,East,Delhivery,10033.98,2026-04-23,2026-04-30,2026-05-12,Delayed,Critical,12
+ORD-0192,Brinda Gupta,Kitchen Item 54,Kitchen,West,Shadowfax,11557.44,2026-05-31,2026-06-03,2026-06-02,Delivered,None,0
+ORD-0193,Abdul Zacharia,Kids Item 78,Kids,Central,Shipped by Amazon,10585.01,2026-05-30,2026-06-02,2026-05-31,Delivered,None,0
+ORD-0194,Theodore Kaur,Entertainment Item 17,Entertainment,East,Bluedart,2904.4,2026-05-24,2026-05-27,2026-05-25,Delivered,None,0
+ORD-0195,Aarush Bali,Beauty Item 41,Beauty,South,Shadowfax,8681.53,2026-04-16,2026-04-22,,In Transit,None,0
+ORD-0196,Fiyaz Chand,Jewelry Item 73,Jewelry,Central,Indian Postal Service,3060.94,2026-05-02,2026-05-09,2026-05-08,Delivered,None,0
+ORD-0197,Samuel Ahluwalia,Apparel Item 64,Apparel,West,Bluedart,2517.22,2026-04-15,2026-04-22,2026-04-22,Delivered,None,0
+ORD-0198,Megha Som,Electronics Item 91,Electronics,Central,Indian Postal Service,57433.44,2026-05-26,2026-05-30,2026-05-30,Delivered,None,0
+ORD-0199,Lajita Rajagopal,Health Item 12,Health,North,Delhivery,12667.56,2026-06-05,2026-06-12,2026-06-27,Delayed,Critical,15
+ORD-0200,Chatresh Shenoy,Kids Item 94,Kids,East,Bluedart,15207.19,2026-05-23,2026-05-26,2026-05-25,Delivered,None,0
+ORD-0201,Abeer Bajaj,Kitchen Item 64,Kitchen,South,Delhivery,10569.36,2026-05-05,2026-05-11,2026-05-10,Delivered,None,0
+ORD-0202,Wyatt Venkatesh,Jewelry Item 93,Jewelry,East,Bluedart,1865.44,2026-04-26,2026-05-03,2026-05-01,Delivered,None,0
+ORD-0203,Raksha Pathak,Entertainment Item 56,Entertainment,Central,Shadowfax,2681.94,2026-05-20,2026-05-25,2026-05-23,Delivered,None,0
+ORD-0204,Dakshesh Baral,Kitchen Item 37,Kitchen,South,Shadowfax,3636.04,2026-05-05,2026-05-08,2026-05-07,Delivered,None,0
+ORD-0205,Megha Nanda,Jewelry Item 14,Jewelry,East,Indian Postal Service,4019.4,2026-05-10,2026-05-15,2026-05-13,Delivered,None,0
+ORD-0206,Omya Subramaniam,Apparel Item 35,Apparel,West,Indian Postal Service,3046.46,2026-04-11,2026-04-14,2026-04-14,Delivered,None,0
+ORD-0207,Diya Choudhry,Lifestyle Item 26,Lifestyle,North,Indian Postal Service,16691.71,2026-05-23,2026-05-26,2026-05-25,Delivered,None,0
+ORD-0208,Jalsa Ramanathan,Health Item 65,Health,Central,Delhivery,19420.51,2026-04-19,2026-04-25,2026-04-23,Delivered,None,0
+ORD-0209,Timothy Chana,Health Item 86,Health,North,Shadowfax,11814.93,2026-05-27,2026-05-30,2026-05-28,Delivered,None,0
+ORD-0210,Lavanya Krish,Lifestyle Item 62,Lifestyle,East,Ecom Express,19102.98,2026-04-16,2026-04-20,,In Transit,None,0
+ORD-0211,Arunima Ramaswamy,Lifestyle Item 41,Lifestyle,North,Shadowfax,22025.78,2026-04-20,2026-04-24,2026-05-04,Delayed,Critical,10
+ORD-0212,Nikita Lad,Entertainment Item 61,Entertainment,East,Bluedart,2310.32,2026-05-05,2026-05-12,2026-05-11,Delivered,None,0
+ORD-0213,Anya Mani,Kitchen Item 77,Kitchen,East,Shipped by Amazon,17347.67,2026-05-18,2026-05-22,2026-05-20,Delivered,None,0
+ORD-0214,Brinda Sathe,Home Item 85,Home,South,Shipped by Amazon,8386.69,2026-05-12,2026-05-19,2026-05-28,Delayed,Critical,9
+ORD-0215,Pallavi Uppal,Entertainment Item 68,Entertainment,South,Bluedart,960.26,2026-04-16,2026-04-19,2026-04-17,Delivered,None,0
+ORD-0216,Wriddhish Bal,Apparel Item 69,Apparel,East,Shipped by Amazon,14925.53,2026-06-05,2026-06-10,2026-06-09,Delivered,None,0
+ORD-0217,Rehaan Narula,Kids Item 59,Kids,South,Shipped by Amazon,4523.8,2026-05-13,2026-05-17,2026-05-24,Delayed,Critical,7
+ORD-0218,Ekaja Bal,Kitchen Item 83,Kitchen,West,Delhivery,15794.27,2026-04-14,2026-04-18,2026-04-16,Delivered,None,0
+ORD-0219,Zansi Sharaf,Entertainment Item 3,Entertainment,East,Delhivery,1870.13,2026-05-25,2026-05-31,2026-05-29,Delivered,None,0
+ORD-0220,Bhavika Butala,Kitchen Item 62,Kitchen,East,Bluedart,4663.49,2026-04-10,2026-04-15,2026-04-15,Delivered,None,0
+ORD-0221,Manthan Pau,Apparel Item 75,Apparel,East,Bluedart,888.76,2026-05-02,2026-05-09,2026-05-09,Delivered,None,0
+ORD-0222,Turvi Wali,Health Item 24,Health,West,Shadowfax,23568.39,2026-06-03,2026-06-10,2026-06-10,Delivered,None,0
+ORD-0223,Damyanti Kala,Home Item 38,Home,Central,Ecom Express,86280.7,2026-05-03,2026-05-09,2026-05-09,Delivered,None,0
+ORD-0224,Urishilla Zachariah,Beauty Item 69,Beauty,East,Delhivery,7988.36,2026-05-10,2026-05-15,2026-05-14,Delivered,None,0
+ORD-0225,Jeremiah Sodhi,Electronics Item 10,Electronics,South,Shadowfax,63150.71,2026-04-22,2026-04-28,2026-04-26,Delivered,None,0
+ORD-0226,Falak Mukhopadhyay,Jewelry Item 92,Jewelry,North,Ecom Express,4950.17,2026-05-26,2026-05-31,2026-05-30,Delivered,None,0
+ORD-0227,Amol Ganguly,Watches Item 78,Watches,Central,Shipped by Amazon,1926.47,2026-04-18,2026-04-22,2026-04-22,Delivered,None,0
+ORD-0228,Jhalak Sehgal,Jewelry Item 65,Jewelry,West,Indian Postal Service,7748.61,2026-06-02,2026-06-09,2026-06-09,Delivered,None,0
+ORD-0229,Waida Ganesan,Lifestyle Item 58,Lifestyle,West,Delhivery,1601.63,2026-05-27,2026-06-03,2026-06-08,Delayed,High,5
+ORD-0230,Faris Golla,Apparel Item 98,Apparel,Central,Delhivery,1354.39,2026-04-30,2026-05-07,2026-05-05,Delivered,None,0
+ORD-0231,Baljiwan Kanda,Kids Item 33,Kids,North,Shadowfax,6624.0,2026-05-17,2026-05-24,2026-05-22,Delivered,None,0
+ORD-0232,Gagan Dara,Jewelry Item 66,Jewelry,East,Ecom Express,7603.9,2026-05-16,2026-05-22,,In Transit,None,0
+ORD-0233,Rayaan Sachar,Apparel Item 86,Apparel,South,Shipped by Amazon,11480.68,2026-05-08,2026-05-12,2026-05-26,Delayed,Critical,14
+ORD-0234,Chasmum Chakraborty,Entertainment Item 11,Entertainment,Central,Delhivery,800.61,2026-04-15,2026-04-18,2026-04-18,Delivered,None,0
+ORD-0235,Aradhana Bassi,Jewelry Item 8,Jewelry,Central,Ecom Express,2624.43,2026-05-28,2026-06-02,2026-05-31,Delivered,None,0
+ORD-0236,Gabriel Pathak,Jewelry Item 1,Jewelry,East,Delhivery,5953.54,2026-04-21,2026-04-28,2026-04-29,Delayed,Low,1
+ORD-0237,Yachana Tiwari,Kids Item 5,Kids,Central,Ecom Express,9459.4,2026-05-27,2026-06-03,2026-06-01,Delivered,None,0
+ORD-0238,Lakshmi Pillai,Beauty Item 30,Beauty,East,Ecom Express,3422.63,2026-05-04,2026-05-09,2026-05-12,Delayed,Medium,3
+ORD-0239,Jagvi Varty,Watches Item 50,Watches,Central,Indian Postal Service,26657.04,2026-05-04,2026-05-09,2026-05-08,Delivered,None,0
+ORD-0240,Januja Reddy,Jewelry Item 83,Jewelry,North,Indian Postal Service,5259.1,2026-04-09,2026-04-16,2026-04-16,Delivered,None,0
+ORD-0241,Aashi Kalla,Home Item 41,Home,West,Delhivery,86813.22,2026-05-13,2026-05-16,2026-05-14,Delivered,None,0
+ORD-0242,Hemangini Saran,Kitchen Item 78,Kitchen,Central,Shadowfax,9412.56,2026-05-25,2026-05-28,2026-05-27,Delivered,None,0
+ORD-0243,Varsha Yohannan,Beauty Item 31,Beauty,West,Delhivery,6563.58,2026-04-17,2026-04-20,2026-04-20,Delivered,None,0
+ORD-0244,Reyansh Dube,Electronics Item 16,Electronics,South,Indian Postal Service,36833.6,2026-05-14,2026-05-19,,In Transit,None,0
+ORD-0245,Rayaan Gade,Kitchen Item 78,Kitchen,North,Ecom Express,6841.98,2026-04-09,2026-04-13,2026-04-11,Delivered,None,0
+ORD-0246,Amruta Nigam,Watches Item 61,Watches,West,Bluedart,15199.24,2026-05-31,2026-06-03,2026-06-03,Delivered,None,0
+ORD-0247,Hamsini Gulati,Health Item 69,Health,South,Indian Postal Service,19866.08,2026-05-05,2026-05-11,2026-05-18,Delayed,Critical,7
+ORD-0248,Ubika Deshmukh,Health Item 9,Health,West,Shadowfax,9554.04,2026-06-02,2026-06-07,2026-06-05,Delivered,None,0
+ORD-0249,Balveer Gour,Electronics Item 30,Electronics,Central,Ecom Express,70802.13,2026-04-22,2026-04-29,,In Transit,None,0
+ORD-0250,Krish Borra,Kitchen Item 92,Kitchen,East,Ecom Express,6670.06,2026-05-01,2026-05-06,,Stale,High,0
+ORD-0251,Sudiksha Behl,Electronics Item 40,Electronics,North,Delhivery,3131.62,2026-04-21,2026-04-25,2026-04-23,Delivered,None,0
+ORD-0252,Farhan Rattan,Kids Item 43,Kids,Central,Ecom Express,11771.46,2026-05-17,2026-05-23,2026-05-22,Delivered,None,0
+ORD-0253,Jalsa Virk,Watches Item 7,Watches,North,Shadowfax,38998.7,2026-05-05,2026-05-12,2026-05-12,Delivered,None,0
+ORD-0254,Nicholas Shetty,Home Item 78,Home,South,Shadowfax,75430.03,2026-05-04,2026-05-08,,In Transit,None,0
+ORD-0255,Azad Shroff,Health Item 42,Health,Central,Shipped by Amazon,12965.21,2026-05-10,2026-05-15,2026-05-26,Delayed,Critical,11
+ORD-0256,Gaurika Narang,Electronics Item 44,Electronics,Central,Shadowfax,40256.79,2026-05-16,2026-05-23,2026-06-05,Delayed,Critical,13
+ORD-0257,Shivani Shah,Beauty Item 44,Beauty,North,Indian Postal Service,5669.04,2026-04-17,2026-04-20,2026-04-19,Delivered,None,0
+ORD-0258,Yashica Korpal,Jewelry Item 54,Jewelry,East,Ecom Express,4493.09,2026-04-22,2026-04-29,2026-04-27,Delivered,None,0
+ORD-0259,Ishwar Sibal,Jewelry Item 81,Jewelry,West,Ecom Express,5033.95,2026-05-30,2026-06-06,2026-06-04,Delivered,None,0
+ORD-0260,Harini Kala,Kitchen Item 10,Kitchen,Central,Ecom Express,12930.13,2026-04-24,2026-04-30,2026-04-29,Delivered,None,0
+ORD-0261,Urvi Barman,Beauty Item 21,Beauty,East,Shipped by Amazon,6108.08,2026-04-09,2026-04-16,2026-04-17,Delayed,Low,1
+ORD-0262,Henry Andra,Kitchen Item 52,Kitchen,West,Indian Postal Service,493.58,2026-04-20,2026-04-26,2026-04-26,Delivered,None,0
+ORD-0263,Ranbir Master,Jewelry Item 90,Jewelry,East,Shipped by Amazon,6672.69,2026-04-24,2026-05-01,2026-04-30,Delivered,None,0
+ORD-0264,Garima Shroff,Kitchen Item 12,Kitchen,South,Shadowfax,11610.22,2026-05-01,2026-05-08,2026-05-22,Delayed,Critical,14
+ORD-0265,Zayyan Mohanty,Home Item 98,Home,North,Indian Postal Service,71483.61,2026-04-24,2026-04-30,2026-04-28,Delivered,None,0
+ORD-0266,Wahab Batta,Apparel Item 70,Apparel,West,Indian Postal Service,7771.14,2026-05-28,2026-05-31,2026-05-30,Delivered,None,0
+ORD-0267,Tara Balakrishnan,Health Item 16,Health,East,Delhivery,6047.47,2026-04-22,2026-04-29,2026-05-08,Delayed,Critical,9
+ORD-0268,Mekhala Manda,Watches Item 90,Watches,East,Indian Postal Service,35841.49,2026-05-07,2026-05-14,,In Transit,None,0
+ORD-0269,Fiyaz Gandhi,Kitchen Item 85,Kitchen,Central,Shipped by Amazon,14891.51,2026-04-11,2026-04-17,2026-04-16,Delivered,None,0
+ORD-0270,Dhruv Lall,Home Item 90,Home,South,Indian Postal Service,71783.53,2026-06-05,2026-06-08,,Stale,High,0
+ORD-0271,Kalpit Krishna,Apparel Item 34,Apparel,North,Bluedart,8803.81,2026-04-28,2026-05-02,2026-05-01,Delivered,None,0
+ORD-0272,Chakrika Ahluwalia,Entertainment Item 48,Entertainment,North,Delhivery,2780.87,2026-05-31,2026-06-06,2026-06-04,Delivered,None,0
+ORD-0273,Barkha Grewal,Lifestyle Item 43,Lifestyle,East,Shadowfax,12072.94,2026-05-18,2026-05-23,2026-05-22,Delivered,None,0
+ORD-0274,Sarthak Balan,Entertainment Item 20,Entertainment,West,Shadowfax,2348.01,2026-04-16,2026-04-20,2026-04-23,Delayed,Medium,3
+ORD-0275,Nitesh Chopra,Watches Item 39,Watches,South,Indian Postal Service,5057.03,2026-05-20,2026-05-24,2026-05-22,Delivered,None,0
+ORD-0276,Kritika Raj,Entertainment Item 2,Entertainment,East,Indian Postal Service,1195.1,2026-04-09,2026-04-15,2026-04-14,Delivered,None,0
+ORD-0277,Reva Joshi,Apparel Item 22,Apparel,West,Shipped by Amazon,7665.91,2026-06-06,2026-06-12,2026-06-12,Delivered,None,0
+ORD-0278,Orinder Murthy,Beauty Item 23,Beauty,North,Shadowfax,550.65,2026-04-24,2026-04-29,2026-04-29,Delivered,None,0
+ORD-0279,Vasudha Upadhyay,Lifestyle Item 4,Lifestyle,Central,Ecom Express,9687.69,2026-05-03,2026-05-06,2026-05-06,Delivered,None,0
+ORD-0280,Ekaja Ratta,Lifestyle Item 39,Lifestyle,Central,Ecom Express,23989.31,2026-05-25,2026-05-28,2026-05-26,Delivered,None,0
+ORD-0281,Hamsini Rout,Watches Item 65,Watches,East,Indian Postal Service,17439.27,2026-05-21,2026-05-26,2026-05-25,Delivered,None,0
+ORD-0282,Krisha Wable,Kids Item 11,Kids,Central,Shipped by Amazon,16280.83,2026-06-06,2026-06-12,2026-06-10,Delivered,None,0
+ORD-0283,Hemang Bala,Home Item 98,Home,North,Ecom Express,63954.73,2026-05-29,2026-06-01,2026-05-30,Delivered,None,0
+ORD-0284,Aditya Rana,Jewelry Item 36,Jewelry,South,Shadowfax,9630.05,2026-05-02,2026-05-06,2026-05-05,Delivered,None,0
+ORD-0285,Jagvi Pal,Watches Item 87,Watches,North,Bluedart,40486.99,2026-05-10,2026-05-14,2026-05-14,Delivered,None,0
+ORD-0286,Daniel Dhar,Kids Item 45,Kids,East,Bluedart,9850.6,2026-04-14,2026-04-20,2026-04-19,Delivered,None,0
+ORD-0287,Vinaya Yohannan,Health Item 77,Health,West,Shadowfax,11276.69,2026-05-28,2026-06-02,2026-05-31,Delivered,None,0
+ORD-0288,Fitan Nagi,Electronics Item 70,Electronics,West,Bluedart,40362.66,2026-05-14,2026-05-19,2026-05-17,Delivered,None,0
+ORD-0289,Robert Butala,Kids Item 62,Kids,East,Shipped by Amazon,18625.55,2026-05-02,2026-05-05,,In Transit,None,0
+ORD-0290,Raagini Sem,Beauty Item 35,Beauty,East,Bluedart,9755.69,2026-04-25,2026-05-01,2026-04-30,Delivered,None,0
+ORD-0291,Darsh Lad,Beauty Item 56,Beauty,South,Indian Postal Service,1168.98,2026-05-21,2026-05-28,2026-05-28,Delivered,None,0
+ORD-0292,Yahvi Hans,Electronics Item 64,Electronics,North,Shipped by Amazon,77465.98,2026-05-16,2026-05-20,2026-05-18,Delivered,None,0
+ORD-0293,Ridhi Sachar,Home Item 53,Home,East,Bluedart,46753.14,2026-05-30,2026-06-06,2026-06-04,Delivered,None,0
+ORD-0294,Aarnav Lad,Watches Item 83,Watches,North,Shadowfax,36624.12,2026-05-06,2026-05-09,,Stale,High,0
+ORD-0295,Januja More,Lifestyle Item 59,Lifestyle,East,Bluedart,4019.37,2026-05-09,2026-05-12,2026-05-11,Delivered,None,0
+ORD-0296,Darsh Dar,Watches Item 78,Watches,South,Indian Postal Service,33691.22,2026-06-06,2026-06-12,2026-06-11,Delivered,None,0
+ORD-0297,Chatresh Devan,Home Item 74,Home,East,Shipped by Amazon,32947.02,2026-05-14,2026-05-19,2026-05-18,Delivered,None,0
+ORD-0298,Praneel Dubey,Kids Item 45,Kids,West,Shadowfax,10658.86,2026-05-02,2026-05-05,2026-05-16,Delayed,Critical,11
+ORD-0299,Nandini Bhalla,Apparel Item 30,Apparel,East,Ecom Express,13405.21,2026-05-08,2026-05-13,2026-05-28,Delayed,Critical,15
+ORD-0300,Darika Cheema,Watches Item 69,Watches,East,Delhivery,23718.9,2026-05-02,2026-05-09,2026-05-08,Delivered,None,0
+ORD-0301,Max Goswami,Electronics Item 54,Electronics,South,Shadowfax,11743.48,2026-05-19,2026-05-22,2026-05-22,Delivered,None,0
+ORD-0302,Shravya Chaudry,Jewelry Item 93,Jewelry,North,Ecom Express,5068.46,2026-05-04,2026-05-09,2026-05-07,Delivered,None,0
+ORD-0303,Bachittar Ahluwalia,Beauty Item 86,Beauty,East,Indian Postal Service,9510.26,2026-05-24,2026-05-30,,Stale,High,0
+ORD-0304,Pavani Sethi,Watches Item 73,Watches,East,Delhivery,42105.08,2026-04-10,2026-04-13,,In Transit,None,0
+ORD-0305,Mekhala Chaudhuri,Watches Item 53,Watches,East,Bluedart,25592.97,2026-05-05,2026-05-12,2026-05-13,Delayed,Low,1
+ORD-0306,Gauri Suri,Lifestyle Item 63,Lifestyle,East,Shipped by Amazon,9762.87,2026-06-01,2026-06-08,2026-06-07,Delivered,None,0
+ORD-0307,Mitali Randhawa,Health Item 6,Health,East,Delhivery,11653.58,2026-05-10,2026-05-13,2026-05-11,Delivered,None,0
+ORD-0308,Ladli Toor,Electronics Item 47,Electronics,West,Shipped by Amazon,57992.9,2026-05-06,2026-05-13,,In Transit,None,0
+ORD-0309,Forum Mani,Home Item 64,Home,Central,Shipped by Amazon,31041.14,2026-05-29,2026-06-03,2026-06-07,Delayed,Medium,4
+ORD-0310,Maanas Jain,Home Item 66,Home,West,Indian Postal Service,68681.21,2026-05-09,2026-05-13,2026-05-12,Delivered,None,0
+ORD-0311,Hema Madan,Beauty Item 45,Beauty,North,Delhivery,4171.04,2026-04-11,2026-04-15,2026-04-13,Delivered,None,0
+ORD-0312,Benjamin Tak,Kids Item 85,Kids,West,Bluedart,11608.12,2026-05-11,2026-05-18,2026-05-17,Delivered,None,0
+ORD-0313,Maanav Golla,Jewelry Item 76,Jewelry,West,Shadowfax,6019.4,2026-04-22,2026-04-26,2026-04-24,Delivered,None,0
+ORD-0314,Raksha Aurora,Beauty Item 91,Beauty,West,Shadowfax,6210.68,2026-05-08,2026-05-14,2026-05-13,Delivered,None,0
+ORD-0315,Mahika Dyal,Watches Item 49,Watches,Central,Ecom Express,21113.88,2026-04-18,2026-04-24,2026-04-22,Delivered,None,0
+ORD-0316,Neha Joshi,Kitchen Item 95,Kitchen,North,Delhivery,7226.38,2026-05-28,2026-06-01,2026-06-01,Delivered,None,0
+ORD-0317,Chakrika Golla,Beauty Item 47,Beauty,South,Shipped by Amazon,514.46,2026-05-12,2026-05-16,2026-05-30,Delayed,Critical,14
+ORD-0318,Mitesh Kashyap,Lifestyle Item 66,Lifestyle,East,Shadowfax,24325.3,2026-05-06,2026-05-11,2026-05-09,Delivered,None,0
+ORD-0319,Bhavna Shah,Kitchen Item 44,Kitchen,East,Bluedart,13935.96,2026-05-29,2026-06-01,2026-06-14,Delayed,Critical,13
+ORD-0320,Nachiket Datta,Home Item 57,Home,North,Ecom Express,66155.59,2026-04-30,2026-05-03,2026-05-02,Delivered,None,0
+ORD-0321,Pooja Kulkarni,Home Item 37,Home,West,Shipped by Amazon,15487.11,2026-05-16,2026-05-19,2026-05-26,Delayed,Critical,7
+ORD-0322,Henry Chaudhary,Entertainment Item 48,Entertainment,East,Ecom Express,2225.81,2026-06-03,2026-06-10,2026-06-18,Delayed,Critical,8
+ORD-0323,Hamsini Pall,Lifestyle Item 63,Lifestyle,Central,Indian Postal Service,23201.53,2026-04-20,2026-04-27,2026-05-06,Delayed,Critical,9
+ORD-0324,Anya Handa,Apparel Item 59,Apparel,North,Bluedart,535.12,2026-05-10,2026-05-17,2026-05-30,Delayed,Critical,13
+ORD-0325,Suhani Natt,Health Item 69,Health,East,Shadowfax,17086.55,2026-05-27,2026-06-03,2026-06-05,Delayed,Low,2
+ORD-0326,Ekta Cherian,Home Item 17,Home,North,Shadowfax,76842.03,2026-04-17,2026-04-23,2026-04-21,Delivered,None,0
+ORD-0327,Rohan Gola,Lifestyle Item 8,Lifestyle,South,Shadowfax,12202.06,2026-05-11,2026-05-16,2026-05-15,Delivered,None,0
+ORD-0328,Thomas Pillay,Kids Item 71,Kids,North,Bluedart,2835.5,2026-04-14,2026-04-19,2026-04-17,Delivered,None,0
+ORD-0329,Rohan Dyal,Home Item 69,Home,East,Delhivery,85786.89,2026-05-24,2026-05-27,2026-05-31,Delayed,Medium,4
+ORD-0330,Ria Murty,Jewelry Item 54,Jewelry,North,Delhivery,9693.02,2026-04-22,2026-04-26,2026-04-26,Delivered,None,0
+ORD-0331,Wahab Roy,Kitchen Item 48,Kitchen,West,Bluedart,11948.45,2026-05-06,2026-05-11,2026-05-20,Delayed,Critical,9
+ORD-0332,Avni Modi,Jewelry Item 47,Jewelry,East,Delhivery,3127.73,2026-04-21,2026-04-27,2026-05-03,Delayed,High,6
+ORD-0333,Hemang Bose,Kids Item 16,Kids,East,Delhivery,9499.06,2026-04-19,2026-04-25,2026-04-27,Delayed,Low,2
+ORD-0334,Sarthak Biswas,Kitchen Item 45,Kitchen,Central,Shipped by Amazon,2760.5,2026-05-28,2026-06-01,2026-05-31,Delivered,None,0
+ORD-0335,Rishi Arora,Kids Item 25,Kids,Central,Indian Postal Service,14417.01,2026-04-15,2026-04-21,2026-04-20,Delivered,None,0
+ORD-0336,Waida Viswanathan,Kids Item 67,Kids,South,Shadowfax,7537.6,2026-05-08,2026-05-13,2026-05-24,Delayed,Critical,11
+ORD-0337,Chakradev Patel,Beauty Item 11,Beauty,North,Ecom Express,9235.29,2026-05-18,2026-05-21,2026-05-20,Delivered,None,0
+ORD-0338,Benjamin Devi,Beauty Item 67,Beauty,Central,Ecom Express,3023.9,2026-05-12,2026-05-19,2026-05-19,Delivered,None,0
+ORD-0339,Vincent Shanker,Kids Item 20,Kids,North,Bluedart,11457.04,2026-04-10,2026-04-13,2026-04-11,Delivered,None,0
+ORD-0340,Victor Chahal,Beauty Item 53,Beauty,West,Shadowfax,9680.49,2026-04-28,2026-05-03,2026-05-01,Delivered,None,0
+ORD-0341,Chanchal Garg,Kids Item 75,Kids,West,Indian Postal Service,17160.19,2026-06-01,2026-06-06,2026-06-04,Delivered,None,0
+ORD-0342,Suhani Srinivas,Kitchen Item 49,Kitchen,South,Delhivery,17256.46,2026-04-21,2026-04-25,2026-04-25,Delivered,None,0
+ORD-0343,Manya Patla,Jewelry Item 59,Jewelry,East,Shadowfax,7423.37,2026-04-08,2026-04-13,,Stale,High,0
+ORD-0344,Reyansh Lalla,Health Item 73,Health,South,Shipped by Amazon,4294.78,2026-05-05,2026-05-10,2026-05-09,Delivered,None,0
+ORD-0345,Yashica Deshpande,Kids Item 73,Kids,East,Bluedart,2184.85,2026-04-21,2026-04-24,,In Transit,None,0
+ORD-0346,Eshana Aurora,Beauty Item 70,Beauty,East,Delhivery,710.63,2026-04-18,2026-04-22,2026-04-24,Delayed,Low,2
+ORD-0347,Jeevika Mander,Home Item 41,Home,Central,Delhivery,10072.38,2026-04-30,2026-05-03,,Stale,High,0
+ORD-0348,Qushi Lal,Watches Item 66,Watches,West,Bluedart,30262.34,2026-04-29,2026-05-05,2026-05-05,Delivered,None,0
+ORD-0349,Wyatt Goda,Kids Item 70,Kids,East,Bluedart,221.01,2026-04-25,2026-04-29,2026-04-28,Delivered,None,0
+ORD-0350,Jacob Bhasin,Entertainment Item 20,Entertainment,East,Indian Postal Service,213.21,2026-04-20,2026-04-23,2026-04-22,Delivered,None,0
+ORD-0351,Indali Balakrishnan,Kitchen Item 42,Kitchen,Central,Delhivery,16854.84,2026-05-18,2026-05-22,2026-05-22,Delivered,None,0
+ORD-0352,Benjamin Sem,Entertainment Item 51,Entertainment,West,Shadowfax,1823.72,2026-05-03,2026-05-07,2026-05-10,Delayed,Medium,3
+ORD-0353,Samesh Agate,Lifestyle Item 73,Lifestyle,West,Delhivery,19364.26,2026-05-20,2026-05-27,2026-05-26,Delivered,None,0
+ORD-0354,Jonathan Yohannan,Kitchen Item 98,Kitchen,East,Indian Postal Service,1394.72,2026-04-16,2026-04-19,2026-04-19,Delivered,None,0
+ORD-0355,Jeevika Sodhi,Entertainment Item 31,Entertainment,West,Indian Postal Service,2604.1,2026-05-26,2026-06-02,2026-06-01,Delivered,None,0
+ORD-0356,Irya Chacko,Kitchen Item 83,Kitchen,East,Shipped by Amazon,1624.03,2026-04-28,2026-05-03,2026-05-11,Delayed,Critical,8
+ORD-0357,Chatura Dara,Kids Item 67,Kids,Central,Delhivery,9110.13,2026-05-31,2026-06-07,2026-06-07,Delivered,None,0
+ORD-0358,Dalbir Kumer,Kitchen Item 88,Kitchen,North,Ecom Express,795.08,2026-05-10,2026-05-14,2026-05-28,Delayed,Critical,14
+ORD-0359,Vidhi Sarraf,Apparel Item 80,Apparel,North,Bluedart,11514.17,2026-05-12,2026-05-15,2026-05-14,Delivered,None,0
+ORD-0360,Zayan Parmer,Lifestyle Item 7,Lifestyle,East,Bluedart,22563.66,2026-05-16,2026-05-22,2026-05-20,Delivered,None,0
+ORD-0361,Ekaraj Dua,Kitchen Item 37,Kitchen,West,Indian Postal Service,14370.37,2026-05-24,2026-05-31,2026-06-06,Delayed,High,6
+ORD-0362,Nathaniel Cherian,Apparel Item 69,Apparel,North,Indian Postal Service,11463.13,2026-04-28,2026-05-01,2026-04-30,Delivered,None,0
+ORD-0363,Anvi Mutti,Home Item 85,Home,Central,Shadowfax,80993.53,2026-05-31,2026-06-06,2026-06-06,Delivered,None,0
+ORD-0364,Garima Sur,Apparel Item 58,Apparel,West,Delhivery,410.54,2026-04-24,2026-04-28,2026-05-02,Delayed,Medium,4
+ORD-0365,Benjamin Lalla,Electronics Item 73,Electronics,Central,Delhivery,33130.69,2026-04-12,2026-04-18,2026-04-16,Delivered,None,0
+ORD-0366,Aarnav Garg,Home Item 48,Home,Central,Shipped by Amazon,89599.05,2026-04-22,2026-04-28,2026-05-08,Delayed,Critical,10
+ORD-0367,Hardik Boase,Watches Item 70,Watches,South,Shadowfax,28028.34,2026-05-04,2026-05-10,2026-05-08,Delivered,None,0
+ORD-0368,Wriddhish Sibal,Health Item 80,Health,South,Indian Postal Service,16394.73,2026-04-20,2026-04-23,2026-04-22,Delivered,None,0
+ORD-0369,Laksh Dayal,Apparel Item 11,Apparel,Central,Shipped by Amazon,14171.14,2026-04-15,2026-04-19,2026-04-18,Delivered,None,0
+ORD-0370,Upasna Mani,Home Item 35,Home,East,Shadowfax,59083.77,2026-05-08,2026-05-13,2026-05-26,Delayed,Critical,13
+ORD-0371,Anvi Agate,Home Item 7,Home,East,Bluedart,11637.1,2026-05-08,2026-05-12,2026-05-12,Delivered,None,0
+ORD-0372,Daksh Wali,Jewelry Item 46,Jewelry,East,Ecom Express,9215.06,2026-05-05,2026-05-11,2026-05-09,Delivered,None,0
+ORD-0373,Rachit Madan,Health Item 77,Health,South,Shadowfax,14745.22,2026-04-09,2026-04-15,2026-04-15,Delivered,None,0
+ORD-0374,George Pandit,Kitchen Item 36,Kitchen,West,Shipped by Amazon,6019.74,2026-05-09,2026-05-15,2026-05-14,Delivered,None,0
+ORD-0375,Urvi Anand,Electronics Item 6,Electronics,South,Bluedart,41714.34,2026-04-26,2026-05-01,2026-05-01,Delivered,None,0
+ORD-0376,Vincent Lanka,Kitchen Item 72,Kitchen,East,Bluedart,19747.42,2026-04-27,2026-05-01,2026-04-29,Delivered,None,0
+ORD-0377,Brijesh Nazareth,Watches Item 40,Watches,East,Shadowfax,21787.09,2026-05-23,2026-05-30,,Stale,High,0
+ORD-0378,Manbir Khare,Entertainment Item 100,Entertainment,East,Ecom Express,1253.22,2026-05-01,2026-05-06,2026-05-04,Delivered,None,0
+ORD-0379,Gaurav Patel,Electronics Item 45,Electronics,South,Shadowfax,31904.06,2026-04-27,2026-05-04,2026-05-08,Delayed,Medium,4
+ORD-0380,Wakeeta Oza,Entertainment Item 1,Entertainment,Central,Bluedart,976.29,2026-04-10,2026-04-17,,In Transit,None,0
+ORD-0381,Wazir Hayre,Electronics Item 1,Electronics,South,Ecom Express,14125.81,2026-05-26,2026-05-30,2026-05-28,Delivered,None,0
+ORD-0382,Rushil Bajwa,Watches Item 85,Watches,Central,Bluedart,45716.77,2026-05-23,2026-05-27,2026-05-25,Delivered,None,0
+ORD-0383,Yashasvi Deshpande,Kids Item 53,Kids,Central,Delhivery,17320.41,2026-06-02,2026-06-09,2026-06-07,Delivered,None,0
+ORD-0384,Ranveer Contractor,Kids Item 10,Kids,West,Bluedart,6952.36,2026-05-01,2026-05-05,2026-05-03,Delivered,None,0
+ORD-0385,Megha Batra,Beauty Item 36,Beauty,West,Delhivery,1308.45,2026-05-11,2026-05-14,2026-05-27,Delayed,Critical,13
+ORD-0386,Vyanjana Soni,Lifestyle Item 75,Lifestyle,Central,Shadowfax,11307.65,2026-04-26,2026-05-03,2026-05-02,Delivered,None,0
+ORD-0387,Isaiah Singh,Beauty Item 71,Beauty,South,Shipped by Amazon,9333.45,2026-06-05,2026-06-11,2026-06-10,Delivered,None,0
+ORD-0388,Gagan Borah,Apparel Item 77,Apparel,East,Delhivery,7087.79,2026-05-17,2026-05-21,,Stale,High,0
+ORD-0389,Chasmum Basu,Apparel Item 70,Apparel,North,Ecom Express,10530.28,2026-04-17,2026-04-24,2026-04-27,Delayed,Medium,3
+ORD-0390,Abha Wason,Kitchen Item 52,Kitchen,West,Ecom Express,18434.48,2026-05-22,2026-05-29,2026-06-13,Delayed,Critical,15
+ORD-0391,Lohit Mukherjee,Health Item 70,Health,West,Delhivery,21719.09,2026-04-12,2026-04-16,2026-04-14,Delivered,None,0
+ORD-0392,Onkar Vasa,Beauty Item 79,Beauty,West,Ecom Express,7799.25,2026-04-29,2026-05-04,2026-05-03,Delivered,None,0
+ORD-0393,Dakshesh Borah,Entertainment Item 89,Entertainment,West,Ecom Express,1387.92,2026-05-16,2026-05-19,,Stale,High,0
+ORD-0394,Isaac Balasubramanian,Entertainment Item 51,Entertainment,West,Shipped by Amazon,639.02,2026-04-22,2026-04-27,2026-04-27,Delivered,None,0
+ORD-0395,Yochana Sankaran,Kitchen Item 54,Kitchen,West,Indian Postal Service,11027.41,2026-04-14,2026-04-21,2026-04-21,Delivered,None,0
+ORD-0396,Gabriel Dani,Apparel Item 84,Apparel,West,Shadowfax,11251.72,2026-05-20,2026-05-24,2026-05-29,Delayed,High,5
+ORD-0397,Darsh Purohit,Kitchen Item 14,Kitchen,South,Bluedart,17377.4,2026-05-17,2026-05-21,2026-05-21,Delivered,None,0
+ORD-0398,Om Sunder,Kids Item 25,Kids,Central,Bluedart,5621.5,2026-04-29,2026-05-06,2026-05-05,Delivered,None,0
+ORD-0399,Finn Sehgal,Kids Item 72,Kids,Central,Ecom Express,15720.22,2026-05-14,2026-05-18,2026-05-17,Delivered,None,0
+ORD-0400,Azaan Chana,Entertainment Item 72,Entertainment,Central,Delhivery,1532.57,2026-05-26,2026-05-29,2026-06-06,Delayed,Critical,8
+ORD-0401,Panini Viswanathan,Apparel Item 47,Apparel,West,Shipped by Amazon,4719.48,2026-06-06,2026-06-13,2026-06-11,Delivered,None,0
+ORD-0402,Turvi Bahl,Kitchen Item 8,Kitchen,West,Shipped by Amazon,5045.75,2026-04-21,2026-04-24,2026-04-24,Delivered,None,0
+ORD-0403,Balendra Bansal,Beauty Item 87,Beauty,East,Bluedart,7626.11,2026-05-12,2026-05-16,2026-05-18,Delayed,Low,2
+ORD-0404,Ekavir Memon,Health Item 65,Health,East,Bluedart,6667.78,2026-06-03,2026-06-10,2026-06-10,Delivered,None,0
+ORD-0405,Janaki Mander,Lifestyle Item 17,Lifestyle,South,Shipped by Amazon,19663.56,2026-04-14,2026-04-17,2026-04-15,Delivered,None,0
+ORD-0406,Kamala Chandra,Kitchen Item 77,Kitchen,West,Shadowfax,17689.35,2026-04-24,2026-05-01,2026-05-01,Delivered,None,0
+ORD-0407,Vinaya Borah,Beauty Item 15,Beauty,Central,Delhivery,8731.81,2026-04-12,2026-04-17,2026-04-17,Delivered,None,0
+ORD-0408,Zinal Brar,Lifestyle Item 6,Lifestyle,East,Bluedart,18684.41,2026-04-15,2026-04-19,2026-04-30,Delayed,Critical,11
+ORD-0409,Lakshit Sahni,Home Item 48,Home,Central,Bluedart,10497.63,2026-05-31,2026-06-05,,Stale,High,0
+ORD-0410,Mohammed Chand,Watches Item 20,Watches,Central,Bluedart,35885.66,2026-05-27,2026-05-30,2026-05-29,Delivered,None,0
+ORD-0411,Balveer Prashad,Beauty Item 52,Beauty,West,Ecom Express,883.89,2026-06-01,2026-06-04,2026-06-03,Delivered,None,0
+ORD-0412,Ranbir Chauhan,Electronics Item 30,Electronics,East,Ecom Express,37048.21,2026-04-12,2026-04-16,2026-04-28,Delayed,Critical,12
+ORD-0413,Ekantika Khalsa,Jewelry Item 36,Jewelry,East,Ecom Express,5856.25,2026-04-18,2026-04-21,2026-04-21,Delivered,None,0
+ORD-0414,Bhanumati Kota,Home Item 10,Home,South,Shipped by Amazon,84771.68,2026-05-06,2026-05-13,2026-05-12,Delivered,None,0
+ORD-0415,Rishi Misra,Electronics Item 88,Electronics,South,Shipped by Amazon,58968.29,2026-06-04,2026-06-11,2026-06-10,Delivered,None,0
+ORD-0416,Upadhriti Dua,Health Item 68,Health,South,Indian Postal Service,19208.88,2026-05-20,2026-05-24,2026-05-31,Delayed,Critical,7
+ORD-0417,Lajita Narasimhan,Beauty Item 93,Beauty,North,Shipped by Amazon,8733.2,2026-04-18,2026-04-24,2026-04-24,Delivered,None,0
+ORD-0418,Elijah Aurora,Electronics Item 25,Electronics,South,Delhivery,43207.74,2026-04-19,2026-04-24,2026-05-01,Delayed,Critical,7
+ORD-0419,Tripti Pillay,Apparel Item 32,Apparel,East,Ecom Express,4068.62,2026-05-22,2026-05-25,2026-06-06,Delayed,Critical,12
+ORD-0420,Krishna Ganesh,Health Item 57,Health,North,Shipped by Amazon,11814.4,2026-04-11,2026-04-16,2026-04-16,Delivered,None,0
+ORD-0421,Henry Aurora,Beauty Item 39,Beauty,North,Shipped by Amazon,4326.11,2026-05-03,2026-05-06,2026-05-04,Delivered,None,0
+ORD-0422,Jagdish Chawla,Apparel Item 38,Apparel,West,Shadowfax,3110.49,2026-05-22,2026-05-27,2026-05-25,Delivered,None,0
+ORD-0423,Yahvi Deo,Electronics Item 59,Electronics,West,Shipped by Amazon,73601.65,2026-05-29,2026-06-03,2026-06-01,Delivered,None,0
+ORD-0424,Oviya Khalsa,Home Item 30,Home,East,Bluedart,51911.77,2026-04-28,2026-05-01,2026-05-06,Delayed,High,5
+ORD-0425,Hemal Dhar,Kids Item 85,Kids,West,Ecom Express,10103.8,2026-04-25,2026-05-01,2026-04-30,Delivered,None,0
+ORD-0426,Raghav Ramanathan,Watches Item 78,Watches,West,Bluedart,33757.66,2026-04-11,2026-04-15,2026-04-13,Delivered,None,0
+ORD-0427,Advaith Banik,Health Item 36,Health,North,Shipped by Amazon,3450.45,2026-06-05,2026-06-10,2026-06-10,Delivered,None,0
+ORD-0428,Veda Subramanian,Jewelry Item 66,Jewelry,Central,Shadowfax,4445.45,2026-06-03,2026-06-08,,In Transit,None,0
+ORD-0429,Panini Natarajan,Jewelry Item 69,Jewelry,Central,Shadowfax,6508.99,2026-05-22,2026-05-26,2026-05-24,Delivered,None,0
+ORD-0430,Yashodhara Nath,Electronics Item 87,Electronics,Central,Shadowfax,17802.46,2026-04-30,2026-05-04,,Stale,High,0
+ORD-0431,Peter Keer,Kitchen Item 37,Kitchen,West,Delhivery,230.92,2026-04-15,2026-04-22,2026-04-21,Delivered,None,0
+ORD-0432,Hemal Singh,Lifestyle Item 42,Lifestyle,Central,Shadowfax,23464.66,2026-04-11,2026-04-15,2026-04-13,Delivered,None,0
+ORD-0433,Harini Ratta,Lifestyle Item 40,Lifestyle,East,Delhivery,24115.3,2026-04-15,2026-04-19,2026-04-19,Delivered,None,0
+ORD-0434,Krish Johal,Entertainment Item 88,Entertainment,Central,Bluedart,2933.23,2026-04-27,2026-04-30,,In Transit,None,0
+ORD-0435,Kala Sathe,Entertainment Item 82,Entertainment,West,Ecom Express,2758.01,2026-04-17,2026-04-22,2026-04-22,Delivered,None,0
+ORD-0436,Wishi Karan,Watches Item 62,Watches,South,Ecom Express,41517.04,2026-05-22,2026-05-27,2026-05-27,Delivered,None,0
+ORD-0437,Bhavika Chand,Kids Item 28,Kids,Central,Ecom Express,19330.55,2026-05-22,2026-05-26,2026-05-24,Delivered,None,0
+ORD-0438,Azad Zacharia,Health Item 95,Health,North,Ecom Express,14532.06,2026-05-30,2026-06-02,2026-06-02,Delivered,None,0
+ORD-0439,Oni Jaggi,Home Item 78,Home,Central,Indian Postal Service,81526.0,2026-04-15,2026-04-18,,In Transit,None,0
+ORD-0440,Advik Vora,Beauty Item 81,Beauty,East,Shipped by Amazon,9934.83,2026-05-20,2026-05-23,2026-05-22,Delivered,None,0
+ORD-0441,Vedant Dutta,Kids Item 73,Kids,West,Shipped by Amazon,2278.01,2026-05-27,2026-05-30,2026-05-28,Delivered,None,0
+ORD-0442,Lopa Barad,Home Item 88,Home,North,Ecom Express,70876.76,2026-04-23,2026-04-26,,In Transit,None,0
+ORD-0443,Tripti Keer,Home Item 63,Home,South,Delhivery,16286.95,2026-05-24,2026-05-28,2026-05-30,Delayed,Low,2
+ORD-0444,Pavani Datta,Jewelry Item 42,Jewelry,West,Shadowfax,9471.03,2026-04-11,2026-04-16,2026-04-14,Delivered,None,0
+ORD-0445,Bhanumati Sunder,Health Item 88,Health,South,Shadowfax,21412.55,2026-05-28,2026-06-01,2026-05-30,Delivered,None,0
+ORD-0446,Ekavir Singh,Kitchen Item 92,Kitchen,East,Ecom Express,11646.95,2026-05-18,2026-05-22,,In Transit,None,0
+ORD-0447,Ganga Chaudhry,Watches Item 61,Watches,North,Shadowfax,639.86,2026-04-13,2026-04-18,2026-04-30,Delayed,Critical,12
+ORD-0448,Nandini More,Electronics Item 12,Electronics,North,Shadowfax,38391.71,2026-06-01,2026-06-04,2026-06-04,Delivered,None,0
+ORD-0449,Azad Sarma,Lifestyle Item 78,Lifestyle,East,Delhivery,4587.65,2026-04-10,2026-04-15,2026-04-14,Delivered,None,0
+ORD-0450,Krisha Dalal,Electronics Item 26,Electronics,East,Bluedart,33962.41,2026-04-25,2026-05-01,2026-04-30,Delivered,None,0
+ORD-0451,Jacob Verma,Lifestyle Item 3,Lifestyle,North,Shadowfax,14425.88,2026-05-26,2026-05-31,2026-05-29,Delivered,None,0
+ORD-0452,Zashil Sur,Apparel Item 37,Apparel,East,Shadowfax,6674.02,2026-05-29,2026-06-01,2026-06-14,Delayed,Critical,13
+ORD-0453,Yauvani Seth,Health Item 90,Health,West,Bluedart,21070.52,2026-05-28,2026-06-04,,In Transit,None,0
+ORD-0454,Jagvi Sharaf,Lifestyle Item 84,Lifestyle,West,Indian Postal Service,4324.67,2026-05-19,2026-05-25,2026-06-06,Delayed,Critical,12
+ORD-0455,Harsh Tiwari,Kitchen Item 20,Kitchen,East,Delhivery,19873.54,2026-06-02,2026-06-08,2026-06-08,Delivered,None,0
+ORD-0456,Kritika Banik,Electronics Item 66,Electronics,West,Indian Postal Service,66694.34,2026-05-07,2026-05-14,2026-05-13,Delivered,None,0
+ORD-0457,Chatura Tandon,Jewelry Item 17,Jewelry,East,Shipped by Amazon,9708.88,2026-04-16,2026-04-19,2026-04-18,Delivered,None,0
+ORD-0458,Omkaar Talwar,Entertainment Item 57,Entertainment,South,Indian Postal Service,1441.77,2026-05-02,2026-05-09,2026-05-17,Delayed,Critical,8
+ORD-0459,Barkha Babu,Jewelry Item 36,Jewelry,Central,Bluedart,9358.28,2026-04-26,2026-04-30,2026-04-30,Delivered,None,0
+ORD-0460,Wahab Thakkar,Health Item 43,Health,East,Bluedart,5149.83,2026-05-21,2026-05-24,,In Transit,None,0
+ORD-0461,Chandresh Bava,Health Item 53,Health,Central,Bluedart,1497.01,2026-04-22,2026-04-26,2026-04-25,Delivered,None,0
+ORD-0462,Ayushman Bera,Electronics Item 96,Electronics,Central,Bluedart,51129.25,2026-04-18,2026-04-24,2026-05-02,Delayed,Critical,8
+ORD-0463,Chandran Dora,Entertainment Item 61,Entertainment,West,Shadowfax,341.71,2026-05-15,2026-05-20,2026-05-20,Delivered,None,0
+ORD-0464,Barkha Rattan,Apparel Item 36,Apparel,North,Shadowfax,9863.61,2026-05-04,2026-05-08,2026-05-08,Delivered,None,0
+ORD-0465,Urvashi Viswanathan,Health Item 26,Health,Central,Bluedart,20996.2,2026-04-18,2026-04-25,2026-04-25,Delivered,None,0
+ORD-0466,Onveer Nadig,Kitchen Item 6,Kitchen,South,Bluedart,9431.34,2026-05-07,2026-05-12,2026-05-11,Delivered,None,0
+ORD-0467,Nitara Dada,Electronics Item 99,Electronics,South,Bluedart,25423.37,2026-06-04,2026-06-07,2026-06-05,Delivered,None,0
+ORD-0468,Thomas Dugar,Kitchen Item 58,Kitchen,West,Shipped by Amazon,2634.92,2026-04-17,2026-04-20,2026-04-18,Delivered,None,0
+ORD-0469,Omkaar Bhattacharyya,Beauty Item 68,Beauty,East,Bluedart,8776.85,2026-05-14,2026-05-17,2026-05-15,Delivered,None,0
+ORD-0470,Owen Mittal,Beauty Item 64,Beauty,West,Ecom Express,612.04,2026-05-05,2026-05-10,2026-05-08,Delivered,None,0
+ORD-0471,Riya Yohannan,Entertainment Item 10,Entertainment,West,Ecom Express,2218.17,2026-05-29,2026-06-02,2026-06-16,Delayed,Critical,14
+ORD-0472,Zehaan Swaminathan,Watches Item 37,Watches,East,Shipped by Amazon,32366.11,2026-05-09,2026-05-12,2026-05-23,Delayed,Critical,11
+ORD-0473,Dipta Bajwa,Health Item 31,Health,West,Shipped by Amazon,24139.15,2026-04-24,2026-05-01,2026-05-01,Delivered,None,0
+ORD-0474,Omya Toor,Watches Item 88,Watches,East,Shipped by Amazon,20311.95,2026-05-05,2026-05-10,,In Transit,None,0
+ORD-0475,Anay Rajagopal,Entertainment Item 26,Entertainment,East,Shipped by Amazon,1000.08,2026-04-30,2026-05-06,2026-05-11,Delayed,High,5
+ORD-0476,Sai Mistry,Entertainment Item 54,Entertainment,South,Indian Postal Service,498.99,2026-05-02,2026-05-08,2026-05-07,Delivered,None,0
+ORD-0477,Viraj Dass,Entertainment Item 64,Entertainment,West,Indian Postal Service,1544.26,2026-04-16,2026-04-19,,Stale,High,0
+ORD-0478,Fitan Acharya,Kids Item 28,Kids,South,Bluedart,853.99,2026-04-20,2026-04-27,2026-04-25,Delivered,None,0
+ORD-0479,Urvashi Mallick,Beauty Item 95,Beauty,North,Shadowfax,4054.08,2026-06-01,2026-06-04,2026-06-03,Delivered,None,0
+ORD-0480,Warinder Mistry,Electronics Item 100,Electronics,East,Shadowfax,26522.35,2026-04-10,2026-04-17,2026-05-02,Delayed,Critical,15
+ORD-0481,Lohit Bedi,Apparel Item 25,Apparel,Central,Indian Postal Service,4035.95,2026-05-24,2026-05-28,2026-06-01,Delayed,Medium,4
+ORD-0482,Laban Wason,Health Item 57,Health,Central,Indian Postal Service,3102.93,2026-05-25,2026-05-28,2026-06-08,Delayed,Critical,11
+ORD-0483,Henry Chad,Home Item 4,Home,West,Shipped by Amazon,29282.27,2026-05-23,2026-05-30,2026-05-30,Delivered,None,0
+ORD-0484,Gautam Pai,Apparel Item 75,Apparel,North,Bluedart,12890.57,2026-05-09,2026-05-16,2026-05-14,Delivered,None,0
+ORD-0485,Mason Buch,Kids Item 88,Kids,Central,Shipped by Amazon,17598.09,2026-04-24,2026-04-29,2026-04-29,Delivered,None,0
+ORD-0486,Yasti Pau,Health Item 91,Health,East,Indian Postal Service,11732.96,2026-04-14,2026-04-18,2026-04-16,Delivered,None,0
+ORD-0487,Gopal Dyal,Entertainment Item 47,Entertainment,South,Shadowfax,656.99,2026-05-12,2026-05-18,2026-05-18,Delivered,None,0
+ORD-0488,Harinakshi Handa,Entertainment Item 1,Entertainment,South,Delhivery,764.79,2026-04-17,2026-04-20,2026-04-20,Delivered,None,0
+ORD-0489,Rehaan Dasgupta,Lifestyle Item 97,Lifestyle,West,Shadowfax,382.18,2026-04-14,2026-04-19,2026-04-17,Delivered,None,0
+ORD-0490,Abeer Barad,Jewelry Item 27,Jewelry,Central,Bluedart,9533.03,2026-05-02,2026-05-08,2026-05-08,Delivered,None,0
+ORD-0491,Nandini Kuruvilla,Watches Item 81,Watches,South,Delhivery,8747.57,2026-05-07,2026-05-11,2026-05-10,Delivered,None,0
+ORD-0492,Kai Gulati,Jewelry Item 83,Jewelry,West,Shadowfax,5086.21,2026-04-21,2026-04-26,2026-05-04,Delayed,Critical,8
+ORD-0493,Thomas Deshmukh,Watches Item 57,Watches,South,Bluedart,11362.91,2026-05-10,2026-05-16,2026-05-14,Delivered,None,0
+ORD-0494,Arjun Sem,Kitchen Item 50,Kitchen,South,Bluedart,11528.07,2026-05-21,2026-05-28,2026-05-28,Delivered,None,0
+ORD-0495,Ekbal Virk,Kids Item 15,Kids,North,Shadowfax,19071.77,2026-05-08,2026-05-14,2026-05-13,Delivered,None,0
+ORD-0496,Warinder Chana,Apparel Item 1,Apparel,South,Delhivery,3394.15,2026-04-28,2026-05-04,2026-05-18,Delayed,Critical,14
+ORD-0497,Oscar Sachdeva,Apparel Item 70,Apparel,North,Bluedart,1077.16,2026-05-25,2026-05-31,2026-05-30,Delivered,None,0
+ORD-0498,Arjun Kade,Entertainment Item 69,Entertainment,Central,Indian Postal Service,890.47,2026-06-01,2026-06-05,2026-06-05,Delivered,None,0
+ORD-0499,Ekani Anand,Lifestyle Item 71,Lifestyle,North,Bluedart,9901.18,2026-05-19,2026-05-24,2026-05-22,Delivered,None,0
+ORD-0500,Michael Menon,Beauty Item 9,Beauty,West,Shadowfax,6626.7,2026-06-01,2026-06-05,,Stale,High,0
+ORD-0501,Harita Samra,Health Item 95,Health,Central,Shipped by Amazon,9895.56,2026-04-28,2026-05-04,2026-05-03,Delivered,None,0
+ORD-0502,Harita Murthy,Kids Item 24,Kids,South,Shipped by Amazon,2523.37,2026-05-05,2026-05-10,,Stale,High,0
+ORD-0503,Yochana Dhawan,Entertainment Item 87,Entertainment,East,Shipped by Amazon,1606.32,2026-04-19,2026-04-24,2026-04-23,Delivered,None,0
+ORD-0504,Ojas Talwar,Beauty Item 90,Beauty,East,Delhivery,5354.44,2026-05-24,2026-05-30,2026-05-29,Delivered,None,0
+ORD-0505,Ishwar Jaggi,Home Item 17,Home,Central,Shipped by Amazon,25951.61,2026-05-15,2026-05-22,2026-05-21,Delivered,None,0
+ORD-0506,Ekansh Apte,Lifestyle Item 32,Lifestyle,North,Bluedart,21688.68,2026-06-05,2026-06-12,2026-06-11,Delivered,None,0
+ORD-0507,Ekalinga Prabhakar,Beauty Item 54,Beauty,South,Shadowfax,8626.5,2026-05-17,2026-05-23,2026-05-23,Delivered,None,0
+ORD-0508,Qabil Hora,Kids Item 38,Kids,Central,Delhivery,14081.63,2026-04-22,2026-04-26,2026-04-24,Delivered,None,0
+ORD-0509,Urishilla Kumer,Electronics Item 79,Electronics,Central,Ecom Express,39304.68,2026-05-01,2026-05-06,2026-05-12,Delayed,High,6
+ORD-0510,Bimala Merchant,Jewelry Item 90,Jewelry,South,Shadowfax,6292.11,2026-05-30,2026-06-06,,In Transit,None,0
+ORD-0511,Pranit Dewan,Kids Item 86,Kids,South,Ecom Express,18317.04,2026-05-05,2026-05-08,2026-05-06,Delivered,None,0
+ORD-0512,Wriddhish Thaker,Entertainment Item 30,Entertainment,West,Indian Postal Service,2975.11,2026-06-03,2026-06-10,2026-06-09,Delivered,None,0
+ORD-0513,Ekantika Chacko,Kids Item 63,Kids,Central,Shadowfax,17639.61,2026-06-02,2026-06-06,2026-06-04,Delivered,None,0
+ORD-0514,Chatresh Pathak,Health Item 49,Health,South,Ecom Express,13637.45,2026-05-04,2026-05-10,2026-05-10,Delivered,None,0
+ORD-0515,Ayushman Kannan,Kids Item 81,Kids,North,Delhivery,4999.71,2026-04-26,2026-05-01,2026-04-30,Delivered,None,0
+ORD-0516,Damyanti Pall,Kids Item 86,Kids,North,Indian Postal Service,9977.82,2026-05-08,2026-05-11,2026-05-10,Delivered,None,0
+ORD-0517,Megha Ramanathan,Electronics Item 23,Electronics,North,Shipped by Amazon,53977.0,2026-05-18,2026-05-21,2026-06-05,Delayed,Critical,15
+ORD-0518,Zayan Dugar,Kitchen Item 10,Kitchen,East,Ecom Express,11895.5,2026-05-26,2026-05-31,2026-05-30,Delivered,None,0
+ORD-0519,Bimala Sama,Entertainment Item 4,Entertainment,Central,Delhivery,800.78,2026-05-18,2026-05-25,,In Transit,None,0
+ORD-0520,Frado Mahal,Jewelry Item 72,Jewelry,South,Indian Postal Service,8323.36,2026-06-05,2026-06-10,2026-06-13,Delayed,Medium,3
+ORD-0521,Varsha Tak,Apparel Item 80,Apparel,West,Shipped by Amazon,3558.98,2026-05-19,2026-05-24,2026-05-23,Delivered,None,0
+ORD-0522,Urmi Comar,Apparel Item 83,Apparel,North,Shipped by Amazon,2718.87,2026-05-02,2026-05-07,2026-05-06,Delivered,None,0
+ORD-0523,Abha Barman,Electronics Item 52,Electronics,North,Bluedart,6950.6,2026-04-27,2026-05-01,2026-05-04,Delayed,Medium,3
+ORD-0524,Yashodhara Brar,Apparel Item 22,Apparel,South,Ecom Express,10850.74,2026-06-03,2026-06-07,2026-06-06,Delivered,None,0
+ORD-0525,Nimrat Borah,Home Item 50,Home,South,Shadowfax,13271.34,2026-04-18,2026-04-24,2026-04-23,Delivered,None,0
+ORD-0526,Mohammed Varma,Home Item 96,Home,Central,Ecom Express,16511.01,2026-06-03,2026-06-09,,Stale,High,0
+ORD-0527,Chatura Brar,Lifestyle Item 45,Lifestyle,Central,Delhivery,20218.4,2026-05-18,2026-05-22,2026-05-21,Delivered,None,0
+ORD-0528,Abha Thakkar,Jewelry Item 37,Jewelry,West,Ecom Express,3931.66,2026-04-23,2026-04-29,2026-05-08,Delayed,Critical,9
+ORD-0529,Samuel Sankaran,Watches Item 80,Watches,South,Shipped by Amazon,9714.77,2026-04-17,2026-04-21,2026-04-21,Delivered,None,0
+ORD-0530,Brinda Shroff,Kitchen Item 80,Kitchen,East,Bluedart,9741.67,2026-04-14,2026-04-19,2026-04-18,Delivered,None,0
+ORD-0531,Falak Kamdar,Lifestyle Item 44,Lifestyle,North,Ecom Express,13104.31,2026-04-30,2026-05-03,,Stale,High,0
+ORD-0532,Gaurangi Savant,Watches Item 95,Watches,Central,Indian Postal Service,2121.7,2026-05-16,2026-05-19,2026-05-17,Delivered,None,0
+ORD-0533,Sara Nayak,Lifestyle Item 32,Lifestyle,East,Indian Postal Service,18418.59,2026-04-15,2026-04-18,,In Transit,None,0
+ORD-0534,Girik Rao,Apparel Item 68,Apparel,South,Bluedart,5961.52,2026-04-17,2026-04-20,2026-04-20,Delivered,None,0
+ORD-0535,Oscar Bahri,Entertainment Item 20,Entertainment,Central,Bluedart,2539.29,2026-05-11,2026-05-18,2026-05-21,Delayed,Medium,3
+ORD-0536,Advay Ramachandran,Entertainment Item 12,Entertainment,Central,Shipped by Amazon,2558.71,2026-05-28,2026-06-03,2026-06-17,Delayed,Critical,14
+ORD-0537,Hiral Ram,Apparel Item 29,Apparel,West,Delhivery,12149.63,2026-05-22,2026-05-29,2026-06-03,Delayed,High,5
+ORD-0538,Aryan Goswami,Health Item 59,Health,South,Ecom Express,1237.21,2026-05-01,2026-05-04,2026-05-02,Delivered,None,0
+ORD-0539,Simon Dhar,Jewelry Item 83,Jewelry,North,Bluedart,3988.19,2026-04-09,2026-04-13,,In Transit,None,0
+ORD-0540,Harshil Padmanabhan,Jewelry Item 36,Jewelry,East,Indian Postal Service,4376.66,2026-05-23,2026-05-29,2026-06-03,Delayed,High,5
+ORD-0541,Brinda Basu,Watches Item 76,Watches,East,Ecom Express,16802.16,2026-04-24,2026-04-30,2026-04-29,Delivered,None,0
+ORD-0542,Osha Bora,Lifestyle Item 87,Lifestyle,North,Shipped by Amazon,10230.83,2026-06-02,2026-06-08,2026-06-07,Delivered,None,0
+ORD-0543,Simon Babu,Jewelry Item 43,Jewelry,East,Indian Postal Service,790.42,2026-04-13,2026-04-16,2026-04-16,Delivered,None,0
+ORD-0544,Indali Malhotra,Health Item 28,Health,West,Ecom Express,18262.51,2026-04-27,2026-04-30,,In Transit,None,0
+ORD-0545,Jagdish Barman,Home Item 22,Home,South,Ecom Express,80804.2,2026-05-11,2026-05-15,2026-05-15,Delivered,None,0
+ORD-0546,Varenya Bedi,Electronics Item 69,Electronics,North,Ecom Express,53587.99,2026-05-24,2026-05-30,2026-05-30,Delivered,None,0
+ORD-0547,Isaiah Gaba,Home Item 58,Home,South,Indian Postal Service,20065.08,2026-04-23,2026-04-27,2026-04-25,Delivered,None,0
+ORD-0548,Avi Karnik,Lifestyle Item 10,Lifestyle,West,Indian Postal Service,4294.51,2026-04-10,2026-04-15,2026-04-13,Delivered,None,0
+ORD-0549,Kavya Srinivasan,Lifestyle Item 55,Lifestyle,Central,Bluedart,22459.63,2026-05-11,2026-05-17,2026-05-16,Delivered,None,0
+ORD-0550,Varenya Kapur,Entertainment Item 43,Entertainment,Central,Shipped by Amazon,1036.59,2026-04-10,2026-04-13,2026-04-11,Delivered,None,0
+ORD-0551,Mohini Purohit,Entertainment Item 28,Entertainment,Central,Indian Postal Service,1176.42,2026-05-13,2026-05-18,2026-05-16,Delivered,None,0
+ORD-0552,Osha Anand,Watches Item 55,Watches,North,Shipped by Amazon,12279.89,2026-06-02,2026-06-08,2026-06-18,Delayed,Critical,10
+ORD-0553,Xavier Joshi,Kitchen Item 72,Kitchen,East,Ecom Express,14041.31,2026-05-24,2026-05-27,2026-05-25,Delivered,None,0
+ORD-0554,Chandani Srivastava,Kids Item 43,Kids,North,Ecom Express,6252.25,2026-05-01,2026-05-06,2026-05-04,Delivered,None,0
+ORD-0555,Anjali Shan,Kitchen Item 10,Kitchen,West,Shipped by Amazon,8126.22,2026-05-11,2026-05-18,2026-05-24,Delayed,High,6
+ORD-0556,Warinder Srinivas,Kids Item 61,Kids,North,Delhivery,7986.89,2026-04-17,2026-04-24,2026-04-25,Delayed,Low,1
+ORD-0557,Ryan Edwin,Entertainment Item 72,Entertainment,Central,Indian Postal Service,2471.24,2026-05-13,2026-05-17,2026-05-17,Delivered,None,0
+ORD-0558,Vasudha Varghese,Home Item 33,Home,East,Indian Postal Service,31211.05,2026-04-26,2026-05-02,,Stale,High,0
+ORD-0559,Dev Bumb,Electronics Item 26,Electronics,East,Shadowfax,10897.79,2026-06-01,2026-06-08,2026-06-07,Delivered,None,0
+ORD-0560,Idika Gulati,Watches Item 77,Watches,East,Ecom Express,20209.11,2026-05-13,2026-05-16,2026-05-14,Delivered,None,0
+ORD-0561,Tara Sood,Home Item 58,Home,North,Indian Postal Service,76890.28,2026-05-07,2026-05-12,2026-05-10,Delivered,None,0
+ORD-0562,Rachit Rattan,Lifestyle Item 22,Lifestyle,North,Shipped by Amazon,20401.64,2026-05-23,2026-05-28,2026-05-26,Delivered,None,0
+ORD-0563,Omisha Rao,Home Item 27,Home,East,Delhivery,99519.42,2026-05-28,2026-05-31,2026-05-30,Delivered,None,0
+ORD-0564,Rishi Keer,Home Item 85,Home,South,Shadowfax,18755.79,2026-05-24,2026-05-29,2026-06-11,Delayed,Critical,13
+ORD-0565,Kai Rajagopalan,Entertainment Item 7,Entertainment,North,Indian Postal Service,1966.7,2026-05-07,2026-05-11,2026-05-26,Delayed,Critical,15
+ORD-0566,Isha Manne,Jewelry Item 6,Jewelry,East,Shipped by Amazon,3729.14,2026-04-13,2026-04-18,2026-04-19,Delayed,Low,1
+ORD-0567,Tanvi Chawla,Home Item 6,Home,East,Bluedart,86818.27,2026-04-08,2026-04-11,2026-04-20,Delayed,Critical,9
+ORD-0568,Ekantika Nair,Entertainment Item 13,Entertainment,Central,Shipped by Amazon,2737.36,2026-04-08,2026-04-15,2026-04-29,Delayed,Critical,14
+ORD-0569,Azad Iyengar,Entertainment Item 11,Entertainment,Central,Bluedart,1754.45,2026-04-16,2026-04-19,2026-04-19,Delivered,None,0
+ORD-0570,Wahab Rastogi,Electronics Item 31,Electronics,West,Delhivery,45399.34,2026-04-20,2026-04-26,2026-04-24,Delivered,None,0
+ORD-0571,Raagini Zacharia,Beauty Item 72,Beauty,East,Indian Postal Service,6798.2,2026-04-09,2026-04-13,2026-04-13,Delivered,None,0
+ORD-0572,Falan Savant,Health Item 37,Health,Central,Bluedart,20905.71,2026-05-25,2026-05-29,2026-05-28,Delivered,None,0
+ORD-0573,Vyanjana Kadakia,Home Item 1,Home,West,Shadowfax,13075.23,2026-04-28,2026-05-03,2026-05-01,Delivered,None,0
+ORD-0574,William Shenoy,Jewelry Item 26,Jewelry,North,Ecom Express,8548.82,2026-05-09,2026-05-14,2026-05-13,Delivered,None,0
+ORD-0575,Nitesh Nagy,Beauty Item 61,Beauty,East,Delhivery,2693.65,2026-04-19,2026-04-22,2026-04-22,Delivered,None,0
+ORD-0576,Raagini Mohan,Beauty Item 72,Beauty,Central,Ecom Express,8495.14,2026-05-13,2026-05-19,2026-05-19,Delivered,None,0
+ORD-0577,Mahika Comar,Lifestyle Item 41,Lifestyle,East,Shadowfax,4810.52,2026-04-19,2026-04-26,2026-04-24,Delivered,None,0
+ORD-0578,Ekanta Vaidya,Health Item 46,Health,East,Bluedart,21289.18,2026-05-30,2026-06-06,2026-06-05,Delivered,None,0
+ORD-0579,Ladli Sunder,Watches Item 48,Watches,North,Bluedart,20967.38,2026-04-17,2026-04-20,2026-04-19,Delivered,None,0
+ORD-0580,Vrishti Gola,Beauty Item 66,Beauty,North,Shipped by Amazon,2230.28,2026-05-14,2026-05-21,2026-05-20,Delivered,None,0
+ORD-0581,Vasatika Pingle,Kids Item 4,Kids,North,Indian Postal Service,846.93,2026-05-10,2026-05-16,2026-05-15,Delivered,None,0
+ORD-0582,Anmol Kumar,Kitchen Item 11,Kitchen,East,Delhivery,4855.22,2026-04-28,2026-05-05,2026-05-17,Delayed,Critical,12
+ORD-0583,Jai Vaidya,Beauty Item 84,Beauty,North,Delhivery,9214.11,2026-05-22,2026-05-27,2026-05-27,Delivered,None,0
+ORD-0584,Vivaan Pandit,Home Item 52,Home,South,Indian Postal Service,87041.69,2026-05-27,2026-06-03,2026-06-03,Delivered,None,0
+ORD-0585,Harita Pant,Apparel Item 63,Apparel,South,Shadowfax,5478.93,2026-06-02,2026-06-06,2026-06-05,Delivered,None,0
+ORD-0586,Lavanya Sama,Jewelry Item 78,Jewelry,West,Bluedart,8219.03,2026-05-09,2026-05-13,2026-05-26,Delayed,Critical,13
+ORD-0587,Chakrika Dar,Health Item 42,Health,Central,Shipped by Amazon,12111.07,2026-05-31,2026-06-07,2026-06-06,Delivered,None,0
+ORD-0588,Faraj Singh,Entertainment Item 87,Entertainment,Central,Indian Postal Service,1282.74,2026-05-10,2026-05-16,2026-05-14,Delivered,None,0
+ORD-0589,Zansi Keer,Watches Item 19,Watches,South,Ecom Express,971.43,2026-04-27,2026-05-01,2026-04-29,Delivered,None,0
+ORD-0590,Radhika Yogi,Electronics Item 34,Electronics,South,Delhivery,39400.05,2026-04-20,2026-04-27,2026-05-10,Delayed,Critical,13
+ORD-0591,Falguni Menon,Health Item 90,Health,Central,Delhivery,21903.84,2026-04-22,2026-04-25,2026-05-08,Delayed,Critical,13
+ORD-0592,Mitesh Chacko,Entertainment Item 52,Entertainment,East,Bluedart,1374.23,2026-06-06,2026-06-12,2026-06-10,Delivered,None,0
+ORD-0593,Bachittar Agarwal,Apparel Item 22,Apparel,South,Indian Postal Service,1145.31,2026-05-26,2026-06-02,2026-06-01,Delivered,None,0
+ORD-0594,Chandresh Mishra,Jewelry Item 71,Jewelry,South,Shadowfax,7554.47,2026-05-07,2026-05-12,2026-05-11,Delivered,None,0
+ORD-0595,Divya Sachdev,Entertainment Item 76,Entertainment,South,Ecom Express,2437.72,2026-05-21,2026-05-24,,In Transit,None,0
+ORD-0596,Arunima Babu,Health Item 10,Health,Central,Ecom Express,23695.96,2026-05-11,2026-05-15,2026-05-15,Delivered,None,0
+ORD-0597,Advaith Bhargava,Jewelry Item 83,Jewelry,West,Delhivery,3349.53,2026-05-05,2026-05-08,2026-05-06,Delivered,None,0
+ORD-0598,Vritti Seth,Lifestyle Item 31,Lifestyle,East,Ecom Express,15284.49,2026-05-21,2026-05-24,2026-05-22,Delivered,None,0
+ORD-0599,Edhitha Garde,Beauty Item 14,Beauty,East,Bluedart,8865.86,2026-04-11,2026-04-18,2026-04-18,Delivered,None,0
+ORD-0600,Hamsini Sankar,Electronics Item 58,Electronics,Central,Delhivery,71790.13,2026-04-16,2026-04-19,,Stale,High,0
+ORD-0601,Tanvi Chanda,Jewelry Item 45,Jewelry,Central,Bluedart,3259.82,2026-05-13,2026-05-19,2026-05-19,Delivered,None,0
+ORD-0602,Jagat Rastogi,Electronics Item 53,Electronics,West,Indian Postal Service,44929.28,2026-05-22,2026-05-27,2026-05-26,Delivered,None,0
+ORD-0603,Vedant Mandal,Apparel Item 10,Apparel,North,Indian Postal Service,6069.73,2026-04-14,2026-04-17,2026-04-15,Delivered,None,0
+ORD-0604,Anvi Kalla,Apparel Item 23,Apparel,Central,Ecom Express,1022.43,2026-05-24,2026-05-28,2026-05-26,Delivered,None,0
+ORD-0605,Vivaan Nath,Kitchen Item 74,Kitchen,West,Shipped by Amazon,17592.58,2026-04-17,2026-04-22,,Stale,High,0
+ORD-0606,Pushti Deep,Watches Item 13,Watches,West,Shipped by Amazon,26182.18,2026-04-25,2026-04-28,2026-04-26,Delivered,None,0
+ORD-0607,Yashodhara Setty,Kids Item 54,Kids,East,Indian Postal Service,10646.94,2026-04-19,2026-04-26,,In Transit,None,0
+ORD-0608,Vritti Banik,Watches Item 46,Watches,South,Indian Postal Service,43112.28,2026-05-27,2026-06-02,2026-05-31,Delivered,None,0
+ORD-0609,Wishi Aggarwal,Entertainment Item 19,Entertainment,South,Indian Postal Service,311.53,2026-04-20,2026-04-23,2026-04-22,Delivered,None,0
+ORD-0610,Meera Toor,Kitchen Item 37,Kitchen,North,Bluedart,17482.41,2026-05-21,2026-05-25,2026-05-23,Delivered,None,0
+ORD-0611,Isaiah Jani,Home Item 39,Home,Central,Shipped by Amazon,2838.02,2026-06-03,2026-06-08,,In Transit,None,0
+ORD-0612,Daksha Garg,Beauty Item 89,Beauty,East,Shadowfax,1091.17,2026-04-19,2026-04-23,2026-04-22,Delivered,None,0
+ORD-0613,Vamakshi Sahni,Jewelry Item 99,Jewelry,Central,Delhivery,5644.46,2026-05-12,2026-05-17,2026-05-17,Delivered,None,0
+ORD-0614,Abha Walla,Entertainment Item 95,Entertainment,South,Delhivery,1223.92,2026-05-29,2026-06-05,2026-06-05,Delivered,None,0
+ORD-0615,Urvi Nori,Home Item 51,Home,Central,Shadowfax,93810.95,2026-05-11,2026-05-18,2026-06-02,Delayed,Critical,15
+ORD-0616,Anay Wali,Apparel Item 87,Apparel,South,Shadowfax,9121.7,2026-05-22,2026-05-26,2026-06-10,Delayed,Critical,15
+ORD-0617,Kamya Vora,Kitchen Item 60,Kitchen,Central,Shadowfax,19759.37,2026-04-30,2026-05-03,2026-05-01,Delivered,None,0
+ORD-0618,Shravya Prashad,Watches Item 54,Watches,Central,Delhivery,41846.7,2026-04-22,2026-04-26,,In Transit,None,0
+ORD-0619,Xiti Dani,Kitchen Item 27,Kitchen,North,Ecom Express,4217.98,2026-04-09,2026-04-15,2026-04-13,Delivered,None,0
+ORD-0620,Waida Samra,Health Item 35,Health,West,Shipped by Amazon,22832.22,2026-05-18,2026-05-25,2026-05-23,Delivered,None,0
+ORD-0621,Qabil Loke,Kitchen Item 50,Kitchen,West,Shipped by Amazon,9068.0,2026-04-28,2026-05-04,,In Transit,None,0
+ORD-0622,Gagan Samra,Kitchen Item 44,Kitchen,East,Delhivery,132.59,2026-05-04,2026-05-09,2026-05-09,Delivered,None,0
+ORD-0623,Aditya Jaggi,Kitchen Item 93,Kitchen,North,Delhivery,7460.18,2026-04-29,2026-05-03,2026-05-03,Delivered,None,0
+ORD-0624,Krish Bhatia,Apparel Item 89,Apparel,Central,Shipped by Amazon,11039.77,2026-06-02,2026-06-05,,In Transit,None,0
+ORD-0625,Charles Bhatt,Kids Item 75,Kids,North,Bluedart,14798.78,2026-04-18,2026-04-23,2026-04-21,Delivered,None,0
+ORD-0626,Manya Suri,Entertainment Item 87,Entertainment,West,Shadowfax,2946.06,2026-04-25,2026-04-28,2026-04-27,Delivered,None,0
+ORD-0627,Chaitanya Varkey,Electronics Item 69,Electronics,North,Shipped by Amazon,43928.75,2026-05-31,2026-06-05,2026-06-04,Delivered,None,0
+ORD-0628,Yashawini Narasimhan,Electronics Item 58,Electronics,North,Delhivery,46814.55,2026-04-25,2026-05-02,2026-05-04,Delayed,Low,2
+ORD-0629,Sneha Pau,Entertainment Item 58,Entertainment,West,Delhivery,1151.55,2026-04-18,2026-04-22,2026-04-21,Delivered,None,0
+ORD-0630,Naksh Thakkar,Kitchen Item 75,Kitchen,Central,Shadowfax,9770.39,2026-04-26,2026-05-02,2026-05-08,Delayed,High,6
+ORD-0631,Sai Kulkarni,Beauty Item 14,Beauty,Central,Bluedart,4222.26,2026-04-14,2026-04-21,2026-04-30,Delayed,Critical,9
+ORD-0632,Gunbir Mall,Kids Item 10,Kids,Central,Bluedart,12340.84,2026-04-18,2026-04-23,,In Transit,None,0
+ORD-0633,Faqid Ray,Lifestyle Item 82,Lifestyle,South,Ecom Express,24607.39,2026-04-28,2026-05-02,2026-05-02,Delivered,None,0
+ORD-0634,Mekhala Bains,Health Item 17,Health,North,Ecom Express,24322.22,2026-04-17,2026-04-20,2026-04-19,Delivered,None,0
+ORD-0635,Ayushman Deo,Jewelry Item 25,Jewelry,Central,Bluedart,768.36,2026-04-14,2026-04-18,2026-04-18,Delivered,None,0
+ORD-0636,Fitan Hegde,Lifestyle Item 83,Lifestyle,East,Indian Postal Service,21436.29,2026-04-08,2026-04-14,2026-04-22,Delayed,Critical,8
+ORD-0637,Eshana More,Home Item 44,Home,East,Bluedart,34989.82,2026-05-11,2026-05-16,2026-05-16,Delivered,None,0
+ORD-0638,Advaith Bose,Electronics Item 37,Electronics,South,Shipped by Amazon,56713.19,2026-05-01,2026-05-08,2026-05-23,Delayed,Critical,15
+ORD-0639,Sai Saran,Entertainment Item 79,Entertainment,Central,Ecom Express,1111.36,2026-05-07,2026-05-13,2026-05-12,Delivered,None,0
+ORD-0640,Shravya Murthy,Watches Item 30,Watches,Central,Shipped by Amazon,15813.36,2026-05-08,2026-05-13,2026-05-18,Delayed,High,5
+ORD-0641,Bhanumati Bail,Kitchen Item 59,Kitchen,Central,Indian Postal Service,17116.3,2026-04-12,2026-04-18,2026-04-17,Delivered,None,0
+ORD-0642,Omisha Chanda,Jewelry Item 15,Jewelry,East,Indian Postal Service,9809.43,2026-05-01,2026-05-08,2026-05-07,Delivered,None,0
+ORD-0643,Chaitaly Suresh,Kitchen Item 3,Kitchen,East,Delhivery,15051.53,2026-04-29,2026-05-05,2026-05-09,Delayed,Medium,4
+ORD-0644,Chandresh Chaudhuri,Entertainment Item 45,Entertainment,South,Ecom Express,2232.96,2026-04-10,2026-04-15,2026-04-14,Delivered,None,0
+ORD-0645,Faris Handa,Apparel Item 95,Apparel,North,Shadowfax,2265.37,2026-04-26,2026-05-02,2026-04-30,Delivered,None,0
+ORD-0646,Vasana Kumar,Electronics Item 42,Electronics,West,Indian Postal Service,71100.7,2026-06-04,2026-06-10,2026-06-08,Delivered,None,0
+ORD-0647,Aarna Bobal,Watches Item 83,Watches,North,Shadowfax,37821.81,2026-04-08,2026-04-11,2026-04-09,Delivered,None,0
+ORD-0648,Balendra Behl,Apparel Item 5,Apparel,South,Bluedart,1166.38,2026-05-27,2026-06-03,2026-06-01,Delivered,None,0
+ORD-0649,Neha Shah,Health Item 43,Health,Central,Bluedart,16773.19,2026-04-08,2026-04-11,,Stale,High,0
+ORD-0650,Aarush Grover,Jewelry Item 80,Jewelry,North,Indian Postal Service,1900.27,2026-05-28,2026-06-02,2026-06-02,Delivered,None,0
+ORD-0651,Zayyan Chada,Watches Item 5,Watches,Central,Bluedart,23360.74,2026-05-20,2026-05-26,2026-05-24,Delivered,None,0
+ORD-0652,Tanvi Choudhry,Entertainment Item 35,Entertainment,Central,Shipped by Amazon,1649.5,2026-05-27,2026-06-02,2026-06-02,Delivered,None,0
+ORD-0653,Brijesh Agrawal,Jewelry Item 31,Jewelry,West,Indian Postal Service,7407.31,2026-06-05,2026-06-09,2026-06-08,Delivered,None,0
+ORD-0654,Yashodhara Sura,Kids Item 53,Kids,East,Shadowfax,14599.78,2026-05-31,2026-06-05,2026-06-20,Delayed,Critical,15
+ORD-0655,Urmi Bhatti,Watches Item 20,Watches,West,Indian Postal Service,35108.21,2026-05-25,2026-05-30,2026-05-29,Delivered,None,0
+ORD-0656,Jagdish Hayre,Home Item 20,Home,West,Ecom Express,32968.79,2026-06-03,2026-06-06,2026-06-05,Delivered,None,0
+ORD-0657,Gabriel Oommen,Lifestyle Item 50,Lifestyle,North,Indian Postal Service,19671.73,2026-04-22,2026-04-27,,In Transit,None,0
+ORD-0658,Michael Chand,Kids Item 27,Kids,South,Indian Postal Service,7758.61,2026-04-26,2026-04-29,2026-04-27,Delivered,None,0
+ORD-0659,Vaishnavi Subramaniam,Lifestyle Item 83,Lifestyle,South,Indian Postal Service,24557.69,2026-05-30,2026-06-02,2026-06-07,Delayed,High,5
+ORD-0660,Chameli Chadha,Apparel Item 16,Apparel,South,Shipped by Amazon,6815.65,2026-05-17,2026-05-21,2026-05-21,Delivered,None,0
+ORD-0661,Ekalinga Srinivas,Watches Item 23,Watches,East,Shipped by Amazon,46987.28,2026-04-29,2026-05-02,2026-05-02,Delivered,None,0
+ORD-0662,Widisha Randhawa,Entertainment Item 53,Entertainment,Central,Ecom Express,2162.54,2026-05-18,2026-05-25,2026-05-26,Delayed,Low,1
+ORD-0663,Naveen Kohli,Kids Item 43,Kids,South,Shadowfax,19887.65,2026-06-03,2026-06-07,2026-06-05,Delivered,None,0
+ORD-0664,Widisha Kohli,Electronics Item 61,Electronics,Central,Indian Postal Service,30438.54,2026-05-12,2026-05-18,2026-05-17,Delivered,None,0
+ORD-0665,Hiral Ranganathan,Health Item 18,Health,Central,Shipped by Amazon,8333.54,2026-04-28,2026-05-04,2026-05-03,Delivered,None,0
+ORD-0666,Nathaniel Sura,Entertainment Item 58,Entertainment,South,Ecom Express,1160.5,2026-06-04,2026-06-08,2026-06-06,Delivered,None,0
+ORD-0667,Brijesh Kibe,Electronics Item 79,Electronics,North,Shadowfax,16361.46,2026-04-24,2026-04-29,2026-05-05,Delayed,High,6
+ORD-0668,Jacob Gera,Kids Item 32,Kids,West,Shadowfax,1754.77,2026-05-08,2026-05-12,2026-05-10,Delivered,None,0
+ORD-0669,Ubika Mahajan,Home Item 55,Home,South,Ecom Express,83870.87,2026-05-25,2026-05-30,2026-05-29,Delivered,None,0
+ORD-0670,Neel Kata,Beauty Item 58,Beauty,Central,Indian Postal Service,6031.91,2026-06-02,2026-06-09,2026-06-08,Delivered,None,0
+ORD-0671,Hiral Hayer,Kids Item 98,Kids,South,Bluedart,1298.99,2026-05-02,2026-05-05,2026-05-03,Delivered,None,0
+ORD-0672,Anirudh Balay,Entertainment Item 18,Entertainment,Central,Bluedart,2632.25,2026-04-15,2026-04-18,2026-04-17,Delivered,None,0
+ORD-0673,Udant Shroff,Electronics Item 10,Electronics,South,Shipped by Amazon,3443.24,2026-05-03,2026-05-10,2026-05-10,Delivered,None,0
+ORD-0674,Indrajit Joshi,Beauty Item 8,Beauty,West,Ecom Express,5781.24,2026-05-04,2026-05-07,2026-05-07,Delivered,None,0
+ORD-0675,Indira Wason,Kids Item 42,Kids,Central,Bluedart,2859.57,2026-04-11,2026-04-18,2026-04-16,Delivered,None,0
+ORD-0676,Abhimanyu Kaur,Health Item 17,Health,East,Shipped by Amazon,8691.96,2026-05-14,2026-05-18,2026-05-19,Delayed,Low,1
+ORD-0677,Mahika Buch,Watches Item 4,Watches,South,Delhivery,19898.67,2026-05-30,2026-06-03,2026-06-07,Delayed,Medium,4
+ORD-0678,Champak D’Alia,Watches Item 21,Watches,South,Indian Postal Service,11804.7,2026-06-06,2026-06-09,2026-06-08,Delivered,None,0
+ORD-0679,Ishita Zacharia,Entertainment Item 71,Entertainment,West,Indian Postal Service,1219.54,2026-04-09,2026-04-12,2026-04-11,Delivered,None,0
+ORD-0680,Darika Khalsa,Apparel Item 23,Apparel,East,Bluedart,4213.71,2026-05-01,2026-05-05,2026-05-03,Delivered,None,0
+ORD-0681,Aahana Thakur,Watches Item 11,Watches,South,Ecom Express,38913.19,2026-05-15,2026-05-22,2026-05-21,Delivered,None,0
+ORD-0682,Ridhi Varma,Kitchen Item 83,Kitchen,Central,Shipped by Amazon,6848.72,2026-05-23,2026-05-29,2026-05-29,Delivered,None,0
+ORD-0683,Chaitanya Bedi,Electronics Item 54,Electronics,North,Ecom Express,29876.22,2026-04-10,2026-04-14,2026-04-12,Delivered,None,0
+ORD-0684,Jagvi Chhabra,Kids Item 84,Kids,South,Delhivery,5480.51,2026-04-13,2026-04-20,2026-04-19,Delivered,None,0
+ORD-0685,Vivaan Pandit,Electronics Item 33,Electronics,West,Ecom Express,37344.69,2026-04-14,2026-04-20,2026-04-18,Delivered,None,0
+ORD-0686,Krish Dave,Lifestyle Item 41,Lifestyle,Central,Delhivery,2443.64,2026-04-20,2026-04-23,2026-04-21,Delivered,None,0
+ORD-0687,Aradhana Munshi,Health Item 16,Health,East,Ecom Express,4539.73,2026-04-23,2026-04-30,,In Transit,None,0
+ORD-0688,Umang Jayaraman,Home Item 80,Home,North,Delhivery,50648.31,2026-04-12,2026-04-17,2026-04-16,Delivered,None,0
+ORD-0689,Pahal Soni,Lifestyle Item 59,Lifestyle,South,Ecom Express,16992.06,2026-04-27,2026-04-30,2026-05-08,Delayed,Critical,8
+ORD-0690,Adweta Anand,Electronics Item 47,Electronics,South,Ecom Express,29591.37,2026-05-19,2026-05-26,2026-06-09,Delayed,Critical,14
+ORD-0691,Harini Bhattacharyya,Watches Item 12,Watches,West,Ecom Express,41348.29,2026-06-01,2026-06-06,,In Transit,None,0
+ORD-0692,Lipika Bal,Home Item 58,Home,Central,Shipped by Amazon,26167.86,2026-05-05,2026-05-09,2026-05-07,Delivered,None,0
+ORD-0693,Netra Contractor,Beauty Item 25,Beauty,East,Indian Postal Service,1242.95,2026-05-22,2026-05-27,2026-05-25,Delivered,None,0
+ORD-0694,Oscar Mukherjee,Kitchen Item 89,Kitchen,West,Shipped by Amazon,17025.8,2026-05-05,2026-05-10,2026-05-16,Delayed,High,6
+ORD-0695,Lakshit Chaudhary,Health Item 4,Health,North,Shadowfax,15992.92,2026-04-22,2026-04-25,2026-04-24,Delivered,None,0
+ORD-0696,Barkha Dubey,Apparel Item 100,Apparel,South,Shipped by Amazon,13271.11,2026-04-11,2026-04-17,2026-04-20,Delayed,Medium,3
+ORD-0697,Wishi Ramakrishnan,Kids Item 60,Kids,North,Shadowfax,18431.0,2026-05-13,2026-05-16,,In Transit,None,0
+ORD-0698,Falak Kuruvilla,Entertainment Item 54,Entertainment,North,Bluedart,2679.73,2026-05-21,2026-05-26,2026-05-24,Delivered,None,0
+ORD-0699,Libni Keer,Jewelry Item 73,Jewelry,South,Shadowfax,7279.1,2026-05-10,2026-05-15,2026-05-14,Delivered,None,0
+ORD-0700,Vasudha Chandran,Kids Item 58,Kids,Central,Delhivery,14453.78,2026-04-20,2026-04-27,2026-04-25,Delivered,None,0
+ORD-0701,Yashasvi Bali,Kids Item 4,Kids,East,Shadowfax,19029.59,2026-05-06,2026-05-10,2026-05-10,Delivered,None,0
+ORD-0702,Mitesh Mohanty,Entertainment Item 36,Entertainment,West,Delhivery,2967.6,2026-04-23,2026-04-27,2026-04-27,Delivered,None,0
+ORD-0703,Eesha Grewal,Beauty Item 95,Beauty,East,Indian Postal Service,3319.71,2026-05-31,2026-06-05,2026-06-06,Delayed,Low,1
+ORD-0704,Anthony Dara,Apparel Item 99,Apparel,West,Shadowfax,7812.93,2026-05-02,2026-05-07,2026-05-05,Delivered,None,0
+ORD-0705,Udyati Narasimhan,Watches Item 19,Watches,South,Ecom Express,42229.38,2026-05-31,2026-06-05,2026-06-03,Delivered,None,0
+ORD-0706,Jagdish Ramesh,Watches Item 48,Watches,Central,Delhivery,20966.8,2026-05-26,2026-06-02,2026-06-01,Delivered,None,0
+ORD-0707,Dalbir Chaudhary,Health Item 44,Health,East,Shadowfax,3515.56,2026-04-09,2026-04-16,2026-04-16,Delivered,None,0
+ORD-0708,Indali Hegde,Lifestyle Item 82,Lifestyle,South,Delhivery,15739.93,2026-04-17,2026-04-23,2026-04-22,Delivered,None,0
+ORD-0709,Rushil Pillay,Beauty Item 84,Beauty,North,Ecom Express,9680.29,2026-04-30,2026-05-05,2026-05-03,Delivered,None,0
+ORD-0710,Yashoda Kaul,Jewelry Item 25,Jewelry,North,Shadowfax,7901.53,2026-05-11,2026-05-14,2026-05-12,Delivered,None,0
+ORD-0711,Om Soni,Health Item 68,Health,West,Shipped by Amazon,24541.18,2026-05-16,2026-05-23,2026-05-22,Delivered,None,0
+ORD-0712,Patrick Dash,Home Item 36,Home,West,Shipped by Amazon,28833.99,2026-05-05,2026-05-10,2026-05-08,Delivered,None,0
+ORD-0713,Rachita Sem,Kids Item 33,Kids,South,Shipped by Amazon,12881.79,2026-05-11,2026-05-16,2026-05-24,Delayed,Critical,8
+ORD-0714,Yatan Nadkarni,Watches Item 51,Watches,South,Bluedart,6848.86,2026-05-09,2026-05-13,2026-05-12,Delivered,None,0
+ORD-0715,Harini Ratti,Home Item 78,Home,East,Shipped by Amazon,37410.54,2026-05-26,2026-05-29,2026-05-27,Delivered,None,0
+ORD-0716,Bimala Bhardwaj,Health Item 58,Health,Central,Bluedart,441.62,2026-05-26,2026-05-29,2026-05-28,Delivered,None,0
+ORD-0717,Imaran Sule,Home Item 86,Home,North,Shipped by Amazon,26913.33,2026-04-27,2026-05-04,2026-05-02,Delivered,None,0
+ORD-0718,Osha Bath,Kitchen Item 77,Kitchen,North,Shipped by Amazon,4758.02,2026-04-28,2026-05-02,,In Transit,None,0
+ORD-0719,Zayyan Sawhney,Apparel Item 41,Apparel,East,Ecom Express,12221.61,2026-05-28,2026-06-01,2026-06-13,Delayed,Critical,12
+ORD-0720,Krishna Kanda,Lifestyle Item 74,Lifestyle,North,Delhivery,12542.24,2026-05-20,2026-05-27,,In Transit,None,0
+ORD-0721,Shravya Dave,Home Item 52,Home,Central,Bluedart,67597.57,2026-04-22,2026-04-26,2026-04-26,Delivered,None,0
+ORD-0722,Bachittar Chana,Watches Item 6,Watches,West,Bluedart,3993.66,2026-04-17,2026-04-23,2026-04-23,Delivered,None,0
+ORD-0723,Omya Dube,Home Item 7,Home,West,Shipped by Amazon,17851.43,2026-04-29,2026-05-03,2026-05-07,Delayed,Medium,4
+ORD-0724,Yutika Kota,Apparel Item 94,Apparel,North,Ecom Express,6340.63,2026-04-30,2026-05-06,2026-05-04,Delivered,None,0
+ORD-0725,Praneel Dubey,Home Item 32,Home,South,Ecom Express,74027.49,2026-05-18,2026-05-22,2026-05-22,Delivered,None,0
+ORD-0726,Anamika Loke,Jewelry Item 94,Jewelry,West,Shadowfax,6446.3,2026-06-03,2026-06-10,2026-06-08,Delivered,None,0
+ORD-0727,Abdul Rao,Health Item 79,Health,Central,Shipped by Amazon,18457.98,2026-05-28,2026-06-03,2026-06-01,Delivered,None,0
+ORD-0728,Yutika Chaudhry,Apparel Item 2,Apparel,North,Shadowfax,13265.52,2026-05-12,2026-05-18,2026-05-17,Delivered,None,0
+ORD-0729,Krishna Dass,Watches Item 81,Watches,South,Bluedart,23074.31,2026-06-05,2026-06-10,2026-06-15,Delayed,High,5
+ORD-0730,Qarin Andra,Kids Item 31,Kids,Central,Shadowfax,16880.7,2026-06-02,2026-06-08,2026-06-07,Delivered,None,0
+ORD-0731,Kritika Mander,Entertainment Item 84,Entertainment,Central,Delhivery,2216.34,2026-05-15,2026-05-22,2026-06-03,Delayed,Critical,12
+ORD-0732,Charan Narayan,Kids Item 23,Kids,Central,Ecom Express,508.98,2026-05-19,2026-05-24,2026-05-24,Delivered,None,0
+ORD-0733,Qarin Buch,Home Item 54,Home,South,Indian Postal Service,57434.48,2026-05-14,2026-05-17,2026-05-16,Delivered,None,0
+ORD-0734,Ranveer Walia,Electronics Item 54,Electronics,North,Shadowfax,46536.14,2026-06-01,2026-06-08,2026-06-08,Delivered,None,0
+ORD-0735,Chaitaly Dayal,Lifestyle Item 13,Lifestyle,East,Bluedart,22169.79,2026-05-31,2026-06-06,2026-06-04,Delivered,None,0
+ORD-0736,Meghana Dani,Beauty Item 16,Beauty,West,Shipped by Amazon,1699.71,2026-05-01,2026-05-04,2026-05-07,Delayed,Medium,3
+ORD-0737,Vivaan Kala,Jewelry Item 37,Jewelry,East,Shadowfax,7364.2,2026-06-04,2026-06-10,,Stale,High,0
+ORD-0738,Fariq Gade,Home Item 54,Home,South,Shadowfax,2724.35,2026-04-20,2026-04-26,,Stale,High,0
+ORD-0739,Amaira Babu,Apparel Item 65,Apparel,East,Shipped by Amazon,8726.03,2026-04-13,2026-04-16,2026-04-29,Delayed,Critical,13
+ORD-0740,Chatura Balakrishnan,Kids Item 96,Kids,North,Delhivery,17630.92,2026-06-01,2026-06-06,2026-06-06,Delivered,None,0
+ORD-0741,Barkha Mistry,Kitchen Item 24,Kitchen,South,Indian Postal Service,12868.61,2026-04-20,2026-04-23,2026-04-26,Delayed,Medium,3
+ORD-0742,Udant Gola,Electronics Item 59,Electronics,Central,Delhivery,76932.65,2026-05-24,2026-05-30,,In Transit,None,0
+ORD-0743,Chandani Sahota,Kids Item 95,Kids,North,Shadowfax,15394.79,2026-04-30,2026-05-05,,In Transit,None,0
+ORD-0744,Brijesh Kannan,Health Item 12,Health,East,Shadowfax,19621.77,2026-05-15,2026-05-20,2026-05-19,Delivered,None,0
+ORD-0745,Raghav Pathak,Beauty Item 24,Beauty,East,Shipped by Amazon,2099.16,2026-06-05,2026-06-09,2026-06-07,Delivered,None,0
+ORD-0746,Anya Kaul,Health Item 40,Health,South,Bluedart,3539.46,2026-04-29,2026-05-03,2026-05-03,Delivered,None,0
+ORD-0747,Benjamin Dora,Entertainment Item 82,Entertainment,East,Indian Postal Service,2022.54,2026-05-27,2026-06-03,2026-06-07,Delayed,Medium,4
+ORD-0748,Shivansh Wable,Electronics Item 37,Electronics,West,Bluedart,58048.05,2026-05-09,2026-05-16,2026-05-15,Delivered,None,0
+ORD-0749,Siddharth Reddy,Lifestyle Item 34,Lifestyle,East,Indian Postal Service,23568.63,2026-05-05,2026-05-12,2026-05-18,Delayed,High,6
+ORD-0750,Frederick Goyal,Jewelry Item 87,Jewelry,North,Shadowfax,3872.7,2026-05-08,2026-05-11,2026-05-09,Delivered,None,0
+ORD-0751,Viraj Sibal,Beauty Item 68,Beauty,Central,Delhivery,4746.19,2026-05-31,2026-06-04,2026-06-02,Delivered,None,0
+ORD-0752,Benjamin Goswami,Jewelry Item 36,Jewelry,North,Shipped by Amazon,1886.58,2026-05-26,2026-05-30,2026-05-29,Delivered,None,0
+ORD-0753,Gautam Grover,Lifestyle Item 50,Lifestyle,South,Shipped by Amazon,6703.04,2026-04-18,2026-04-21,2026-04-19,Delivered,None,0
+ORD-0754,Neha Mahajan,Electronics Item 16,Electronics,South,Ecom Express,56474.84,2026-04-27,2026-05-02,2026-05-05,Delayed,Medium,3
+ORD-0755,Ojasvi Rastogi,Entertainment Item 51,Entertainment,North,Bluedart,606.89,2026-05-01,2026-05-06,2026-05-04,Delivered,None,0
+ORD-0756,Jeevika Gill,Jewelry Item 38,Jewelry,East,Indian Postal Service,8897.5,2026-06-04,2026-06-11,2026-06-09,Delivered,None,0
+ORD-0757,Yoshita Bansal,Apparel Item 89,Apparel,South,Shadowfax,13700.25,2026-05-07,2026-05-12,2026-05-11,Delivered,None,0
+ORD-0758,Aarini Bhatti,Watches Item 39,Watches,East,Indian Postal Service,29909.26,2026-04-30,2026-05-06,2026-05-04,Delivered,None,0
+ORD-0759,Ekalinga Borde,Kitchen Item 75,Kitchen,North,Shipped by Amazon,8398.87,2026-04-09,2026-04-16,,In Transit,None,0
+ORD-0760,Geetika Joshi,Health Item 31,Health,West,Bluedart,5457.89,2026-05-24,2026-05-30,2026-05-30,Delivered,None,0
+ORD-0761,Diya Vaidya,Home Item 76,Home,East,Bluedart,17934.88,2026-04-27,2026-05-02,2026-05-06,Delayed,Medium,4
+ORD-0762,Sudiksha Sachar,Lifestyle Item 42,Lifestyle,West,Delhivery,10958.96,2026-04-27,2026-05-04,2026-05-04,Delivered,None,0
+ORD-0763,Dhruv Manda,Home Item 32,Home,North,Indian Postal Service,74339.13,2026-04-11,2026-04-16,2026-05-01,Delayed,Critical,15
+ORD-0764,Faqid Mani,Beauty Item 24,Beauty,West,Delhivery,3934.7,2026-05-21,2026-05-25,2026-05-25,Delivered,None,0
+ORD-0765,Balveer Chahal,Kids Item 32,Kids,West,Ecom Express,8260.62,2026-05-19,2026-05-26,2026-06-04,Delayed,Critical,9
+ORD-0766,Gavin Acharya,Electronics Item 79,Electronics,Central,Indian Postal Service,58647.85,2026-05-17,2026-05-21,2026-05-21,Delivered,None,0
+ORD-0767,Aayush Borra,Kids Item 36,Kids,Central,Ecom Express,16635.88,2026-05-04,2026-05-09,2026-05-07,Delivered,None,0
+ORD-0768,Yashodhara Ravel,Kids Item 23,Kids,West,Shadowfax,18211.63,2026-05-01,2026-05-06,,In Transit,None,0
+ORD-0769,Nitara Narasimhan,Electronics Item 96,Electronics,Central,Indian Postal Service,56208.32,2026-04-24,2026-04-29,,In Transit,None,0
+ORD-0770,Hemang Kara,Home Item 18,Home,North,Shipped by Amazon,60672.64,2026-05-01,2026-05-06,2026-05-18,Delayed,Critical,12
+ORD-0771,Zayyan Borde,Apparel Item 30,Apparel,West,Delhivery,7824.79,2026-04-23,2026-04-29,2026-04-28,Delivered,None,0
+ORD-0772,Mugdha Chaudhary,Watches Item 78,Watches,East,Ecom Express,11484.35,2026-04-22,2026-04-28,2026-05-07,Delayed,Critical,9
+ORD-0773,Rudra Luthra,Electronics Item 45,Electronics,North,Shadowfax,51992.37,2026-05-14,2026-05-19,2026-05-19,Delivered,None,0
+ORD-0774,Harshil Iyengar,Entertainment Item 34,Entertainment,South,Delhivery,2089.03,2026-06-05,2026-06-08,2026-06-23,Delayed,Critical,15
+ORD-0775,Samuel Lalla,Kids Item 82,Kids,West,Indian Postal Service,15911.21,2026-04-08,2026-04-11,2026-04-09,Delivered,None,0
+ORD-0776,Divya Rastogi,Electronics Item 42,Electronics,South,Bluedart,42630.94,2026-05-25,2026-05-31,2026-05-29,Delivered,None,0
+ORD-0777,Harini Dash,Entertainment Item 31,Entertainment,Central,Indian Postal Service,2689.7,2026-05-01,2026-05-07,,In Transit,None,0
+ORD-0778,Kritika Chowdhury,Home Item 68,Home,West,Indian Postal Service,72259.66,2026-06-04,2026-06-11,2026-06-10,Delivered,None,0
+ORD-0779,Balendra Chawla,Health Item 28,Health,Central,Indian Postal Service,15339.06,2026-04-23,2026-04-29,,Stale,High,0
+ORD-0780,Jack Ben,Electronics Item 75,Electronics,North,Shadowfax,53323.25,2026-05-16,2026-05-19,2026-05-17,Delivered,None,0
+ORD-0781,Amol Rattan,Kitchen Item 27,Kitchen,West,Shipped by Amazon,1706.99,2026-05-13,2026-05-20,2026-05-25,Delayed,High,5
+ORD-0782,Lavanya Kumer,Health Item 31,Health,East,Bluedart,11277.51,2026-04-14,2026-04-21,2026-04-19,Delivered,None,0
+ORD-0783,Bhavna Taneja,Jewelry Item 53,Jewelry,Central,Shadowfax,6470.25,2026-04-11,2026-04-17,2026-04-17,Delivered,None,0
+ORD-0784,Daksh Karnik,Kids Item 1,Kids,North,Shadowfax,1270.91,2026-04-18,2026-04-22,2026-04-22,Delivered,None,0
+ORD-0785,Siya Chakraborty,Apparel Item 34,Apparel,East,Ecom Express,4032.73,2026-05-16,2026-05-19,2026-05-18,Delivered,None,0
+ORD-0786,Ansh Chadha,Jewelry Item 69,Jewelry,West,Bluedart,4023.72,2026-05-02,2026-05-09,2026-05-08,Delivered,None,0
+ORD-0787,Ojas Kulkarni,Entertainment Item 77,Entertainment,South,Shadowfax,1436.63,2026-05-23,2026-05-27,2026-05-26,Delivered,None,0
+ORD-0788,Devansh Pau,Beauty Item 68,Beauty,West,Ecom Express,8152.07,2026-05-10,2026-05-16,2026-05-15,Delivered,None,0
+ORD-0789,Urmi Dada,Apparel Item 1,Apparel,Central,Ecom Express,407.41,2026-05-10,2026-05-15,2026-05-23,Delayed,Critical,8
+ORD-0790,Siya Ahuja,Beauty Item 53,Beauty,Central,Ecom Express,4688.91,2026-04-30,2026-05-03,2026-05-06,Delayed,Medium,3
+ORD-0791,Upma Bora,Kids Item 23,Kids,East,Bluedart,9930.01,2026-05-02,2026-05-05,2026-05-14,Delayed,Critical,9
+ORD-0792,Tejas Chahal,Beauty Item 78,Beauty,Central,Indian Postal Service,6363.92,2026-04-27,2026-05-02,2026-04-30,Delivered,None,0
+ORD-0793,Maanav Atwal,Apparel Item 61,Apparel,North,Shipped by Amazon,3270.28,2026-05-23,2026-05-30,2026-06-06,Delayed,Critical,7
+ORD-0794,Chatresh Trivedi,Kitchen Item 71,Kitchen,East,Indian Postal Service,3387.56,2026-05-04,2026-05-07,2026-05-08,Delayed,Low,1
+ORD-0795,Darpan Mohan,Kitchen Item 70,Kitchen,Central,Shipped by Amazon,13050.16,2026-05-14,2026-05-21,2026-05-21,Delivered,None,0
+ORD-0796,Aahana Oak,Kitchen Item 28,Kitchen,East,Bluedart,17743.18,2026-05-31,2026-06-04,2026-06-02,Delivered,None,0
+ORD-0797,Rehaan Soni,Lifestyle Item 93,Lifestyle,South,Indian Postal Service,15352.74,2026-04-14,2026-04-20,2026-04-18,Delivered,None,0
+ORD-0798,Upma Joshi,Kids Item 91,Kids,Central,Indian Postal Service,1413.2,2026-04-13,2026-04-17,2026-04-16,Delivered,None,0
+ORD-0799,Bhavna Bala,Apparel Item 76,Apparel,Central,Bluedart,5674.12,2026-05-20,2026-05-23,2026-05-21,Delivered,None,0
+ORD-0800,Devansh Sekhon,Home Item 20,Home,East,Ecom Express,75821.38,2026-04-18,2026-04-22,2026-04-21,Delivered,None,0
+ORD-0801,Bhavika Kapadia,Kitchen Item 67,Kitchen,North,Shadowfax,19366.85,2026-04-09,2026-04-16,2026-04-23,Delayed,Critical,7
+ORD-0802,Omisha Kamdar,Watches Item 58,Watches,South,Shipped by Amazon,21884.58,2026-05-11,2026-05-14,2026-05-14,Delivered,None,0
+ORD-0803,Anay Kannan,Health Item 29,Health,East,Shadowfax,13127.26,2026-04-10,2026-04-14,,In Transit,None,0
+ORD-0804,Chanakya Kant,Kitchen Item 87,Kitchen,North,Shadowfax,11581.83,2026-05-13,2026-05-18,2026-05-17,Delivered,None,0
+ORD-0805,Charvi Bansal,Kitchen Item 66,Kitchen,West,Indian Postal Service,14014.2,2026-05-15,2026-05-22,2026-05-30,Delayed,Critical,8
+ORD-0806,Advaith Yadav,Beauty Item 7,Beauty,South,Shadowfax,5412.59,2026-04-08,2026-04-11,,Stale,High,0
+ORD-0807,Udant Chawla,Beauty Item 58,Beauty,West,Indian Postal Service,9385.66,2026-04-13,2026-04-17,2026-04-30,Delayed,Critical,13
+ORD-0808,Chasmum Nayar,Kitchen Item 55,Kitchen,Central,Delhivery,7695.54,2026-05-04,2026-05-11,2026-05-12,Delayed,Low,1
+ORD-0809,Xiti Agrawal,Electronics Item 35,Electronics,East,Shipped by Amazon,23179.34,2026-05-11,2026-05-17,,Stale,High,0
+ORD-0810,Jagrati Bhakta,Kids Item 29,Kids,North,Shipped by Amazon,4340.54,2026-05-31,2026-06-05,2026-06-04,Delivered,None,0
+ORD-0811,Manthan Sane,Jewelry Item 91,Jewelry,East,Bluedart,4319.47,2026-04-13,2026-04-18,2026-04-18,Delivered,None,0
+ORD-0812,Chaitanya Bhatnagar,Beauty Item 26,Beauty,North,Shadowfax,9029.32,2026-05-09,2026-05-14,2026-05-14,Delivered,None,0
+ORD-0813,Noah Rout,Kids Item 63,Kids,East,Shipped by Amazon,17949.76,2026-04-23,2026-04-30,2026-04-28,Delivered,None,0
+ORD-0814,Yash Mall,Electronics Item 51,Electronics,South,Ecom Express,59268.91,2026-05-02,2026-05-09,2026-05-11,Delayed,Low,2
+ORD-0815,Aditya Seshadri,Electronics Item 13,Electronics,Central,Ecom Express,53284.23,2026-06-04,2026-06-07,2026-06-20,Delayed,Critical,13
+ORD-0816,Bahadurjit Bandi,Kids Item 67,Kids,East,Ecom Express,14785.61,2026-04-10,2026-04-14,2026-04-16,Delayed,Low,2
+ORD-0817,Nirja Soni,Home Item 31,Home,West,Shadowfax,45524.87,2026-04-25,2026-04-29,2026-04-27,Delivered,None,0
+ORD-0818,Nimrat Taneja,Health Item 34,Health,West,Shadowfax,10449.64,2026-05-14,2026-05-21,2026-05-19,Delivered,None,0
+ORD-0819,Shravya Tata,Kids Item 66,Kids,East,Bluedart,13341.5,2026-04-27,2026-05-03,2026-05-01,Delivered,None,0
+ORD-0820,Widisha Saini,Health Item 72,Health,North,Delhivery,22200.84,2026-04-19,2026-04-22,2026-05-02,Delayed,Critical,10
+ORD-0821,Libni Merchant,Health Item 38,Health,East,Indian Postal Service,12997.75,2026-05-21,2026-05-26,2026-05-25,Delivered,None,0
+ORD-0822,Krisha Setty,Jewelry Item 8,Jewelry,West,Ecom Express,8663.93,2026-05-10,2026-05-13,2026-05-11,Delivered,None,0
+ORD-0823,Ekansh Ratti,Beauty Item 28,Beauty,North,Ecom Express,4758.96,2026-06-05,2026-06-09,,In Transit,None,0
+ORD-0824,Aditya Nori,Apparel Item 43,Apparel,Central,Shadowfax,8285.89,2026-05-24,2026-05-28,2026-05-28,Delivered,None,0
+ORD-0825,Aditya Oak,Health Item 84,Health,Central,Delhivery,17195.43,2026-04-21,2026-04-26,2026-04-26,Delivered,None,0
+ORD-0826,Hitesh Vaidya,Entertainment Item 13,Entertainment,West,Shadowfax,1192.61,2026-05-17,2026-05-20,2026-05-18,Delivered,None,0
+ORD-0827,Harish Choudhary,Electronics Item 91,Electronics,Central,Shipped by Amazon,4814.99,2026-06-05,2026-06-09,2026-06-09,Delivered,None,0
+ORD-0828,Udyati Balakrishnan,Home Item 36,Home,North,Shadowfax,3391.37,2026-05-05,2026-05-09,2026-05-23,Delayed,Critical,14
+ORD-0829,Omisha Dalal,Electronics Item 14,Electronics,Central,Ecom Express,54941.0,2026-04-17,2026-04-20,2026-04-28,Delayed,Critical,8
+ORD-0830,Sanya Sathe,Home Item 50,Home,Central,Indian Postal Service,81262.11,2026-04-28,2026-05-02,2026-05-02,Delivered,None,0
+ORD-0831,Wishi Sura,Watches Item 20,Watches,East,Ecom Express,43083.52,2026-06-02,2026-06-06,2026-06-06,Delivered,None,0
+ORD-0832,Tristan Sengupta,Beauty Item 49,Beauty,South,Shadowfax,2066.25,2026-05-23,2026-05-28,2026-06-10,Delayed,Critical,13
+ORD-0833,Saksham Nagarajan,Electronics Item 71,Electronics,Central,Ecom Express,77104.25,2026-05-23,2026-05-29,,In Transit,None,0
+ORD-0834,Ikbal Iyer,Home Item 6,Home,North,Delhivery,80714.79,2026-04-09,2026-04-15,2026-04-14,Delivered,None,0
+ORD-0835,Ayushman Rastogi,Kitchen Item 34,Kitchen,South,Bluedart,8658.93,2026-04-11,2026-04-17,2026-04-16,Delivered,None,0
+ORD-0836,Karan Reddy,Watches Item 65,Watches,North,Bluedart,30894.7,2026-04-13,2026-04-20,2026-04-18,Delivered,None,0
+ORD-0837,Girik Sidhu,Beauty Item 63,Beauty,North,Indian Postal Service,2529.34,2026-04-20,2026-04-23,2026-04-23,Delivered,None,0
+ORD-0838,Wridesh Contractor,Health Item 86,Health,West,Indian Postal Service,1064.03,2026-04-30,2026-05-05,2026-05-03,Delivered,None,0
+ORD-0839,Jagrati Malhotra,Home Item 57,Home,North,Shipped by Amazon,24928.65,2026-05-29,2026-06-02,2026-06-01,Delivered,None,0
+ORD-0840,Indira Walla,Kids Item 9,Kids,East,Delhivery,475.75,2026-06-04,2026-06-09,2026-06-07,Delivered,None,0
+ORD-0841,Yachana Sagar,Electronics Item 67,Electronics,West,Delhivery,74933.87,2026-04-22,2026-04-28,,In Transit,None,0
+ORD-0842,Alka Dasgupta,Watches Item 79,Watches,South,Shadowfax,6868.04,2026-04-09,2026-04-15,2026-04-15,Delivered,None,0
+ORD-0843,Charan More,Watches Item 30,Watches,West,Shipped by Amazon,44530.47,2026-05-15,2026-05-20,2026-05-19,Delivered,None,0
+ORD-0844,Rushil Keer,Beauty Item 56,Beauty,South,Ecom Express,2592.06,2026-05-11,2026-05-16,2026-05-15,Delivered,None,0
+ORD-0845,Atharv Mannan,Entertainment Item 61,Entertainment,Central,Shadowfax,1299.41,2026-06-03,2026-06-06,2026-06-05,Delivered,None,0
+ORD-0846,Kavya Khurana,Jewelry Item 17,Jewelry,South,Ecom Express,1068.87,2026-05-18,2026-05-22,2026-05-21,Delivered,None,0
+ORD-0847,Adweta Chauhan,Home Item 16,Home,East,Indian Postal Service,70418.11,2026-04-27,2026-05-04,2026-05-09,Delayed,High,5
+ORD-0848,Yug Mann,Kids Item 95,Kids,North,Delhivery,5255.82,2026-05-17,2026-05-22,2026-05-20,Delivered,None,0
+ORD-0849,Devika Borah,Health Item 84,Health,East,Indian Postal Service,12353.29,2026-04-22,2026-04-25,2026-04-29,Delayed,Medium,4
+ORD-0850,Darpan Agarwal,Kids Item 73,Kids,East,Delhivery,3017.38,2026-04-16,2026-04-19,2026-04-17,Delivered,None,0
+ORD-0851,Ekiya Balay,Beauty Item 93,Beauty,West,Indian Postal Service,7583.41,2026-04-23,2026-04-28,2026-04-27,Delivered,None,0
+ORD-0852,Oscar Gala,Lifestyle Item 18,Lifestyle,West,Bluedart,12424.97,2026-05-13,2026-05-16,2026-05-16,Delivered,None,0
+ORD-0853,Oviya Bose,Jewelry Item 72,Jewelry,South,Ecom Express,6008.87,2026-04-15,2026-04-21,2026-04-21,Delivered,None,0
+ORD-0854,Thomas Nagar,Electronics Item 13,Electronics,South,Shipped by Amazon,38588.3,2026-04-14,2026-04-19,2026-04-18,Delivered,None,0
+ORD-0855,Jasmit Bora,Electronics Item 43,Electronics,North,Shipped by Amazon,32943.26,2026-04-16,2026-04-19,2026-04-17,Delivered,None,0
+ORD-0856,Chanakya Baria,Electronics Item 83,Electronics,East,Delhivery,27878.76,2026-04-17,2026-04-23,2026-04-22,Delivered,None,0
+ORD-0857,Bimala Bhatnagar,Kids Item 51,Kids,Central,Shipped by Amazon,10698.0,2026-05-29,2026-06-01,2026-05-31,Delivered,None,0
+ORD-0858,Maanas Setty,Lifestyle Item 53,Lifestyle,North,Shipped by Amazon,16956.04,2026-05-14,2026-05-20,2026-05-31,Delayed,Critical,11
+ORD-0859,Faras Majumdar,Beauty Item 21,Beauty,Central,Indian Postal Service,833.27,2026-06-03,2026-06-10,2026-06-14,Delayed,Medium,4
+ORD-0860,Chameli Biswas,Kids Item 25,Kids,North,Shipped by Amazon,7702.0,2026-05-17,2026-05-22,2026-05-22,Delivered,None,0
+ORD-0861,Manya Vig,Watches Item 62,Watches,South,Indian Postal Service,15224.03,2026-05-07,2026-05-12,2026-05-11,Delivered,None,0
+ORD-0862,Eiravati Narang,Entertainment Item 16,Entertainment,Central,Ecom Express,886.86,2026-06-02,2026-06-05,2026-06-05,Delivered,None,0
+ORD-0863,Zaitra Kalla,Entertainment Item 9,Entertainment,Central,Ecom Express,1371.27,2026-04-15,2026-04-19,2026-04-19,Delivered,None,0
+ORD-0864,Upasna Bhalla,Electronics Item 61,Electronics,North,Ecom Express,74845.86,2026-04-28,2026-05-04,2026-05-02,Delivered,None,0
+ORD-0865,Samaksh Ganesan,Kids Item 48,Kids,East,Shipped by Amazon,319.34,2026-04-17,2026-04-22,,Stale,High,0
+ORD-0866,Azad Bedi,Home Item 94,Home,East,Shadowfax,34865.81,2026-04-26,2026-05-03,2026-05-03,Delivered,None,0
+ORD-0867,Sathvik Sekhon,Home Item 17,Home,North,Ecom Express,65139.69,2026-04-27,2026-05-01,2026-04-29,Delivered,None,0
+ORD-0868,Udarsh Raj,Beauty Item 32,Beauty,East,Shadowfax,7655.87,2026-04-24,2026-04-29,2026-04-27,Delivered,None,0
+ORD-0869,Jatin Verma,Kids Item 100,Kids,Central,Bluedart,1581.19,2026-05-14,2026-05-21,2026-05-30,Delayed,Critical,9
+ORD-0870,Charan Joshi,Health Item 72,Health,Central,Shadowfax,17157.05,2026-06-05,2026-06-09,,In Transit,None,0
+ORD-0871,Siddharth Vyas,Lifestyle Item 37,Lifestyle,North,Delhivery,15900.38,2026-04-24,2026-04-27,2026-04-26,Delivered,None,0
+ORD-0872,Ijaya Karnik,Home Item 16,Home,North,Ecom Express,23708.93,2026-05-08,2026-05-12,2026-05-10,Delivered,None,0
+ORD-0873,Barkha Agate,Entertainment Item 71,Entertainment,North,Indian Postal Service,1823.79,2026-05-16,2026-05-22,2026-05-22,Delivered,None,0
+ORD-0874,Oscar Dora,Watches Item 85,Watches,North,Shipped by Amazon,34217.25,2026-06-01,2026-06-08,2026-06-23,Delayed,Critical,15
+ORD-0875,Janaki Pillay,Apparel Item 86,Apparel,South,Bluedart,13631.34,2026-05-08,2026-05-15,2026-05-26,Delayed,Critical,11
+ORD-0876,Kiaan Virk,Kids Item 46,Kids,East,Shadowfax,13228.22,2026-06-04,2026-06-09,2026-06-09,Delivered,None,0
+ORD-0877,Meghana Batra,Electronics Item 20,Electronics,South,Shadowfax,22109.73,2026-04-24,2026-05-01,2026-05-14,Delayed,Critical,13
+ORD-0878,Kashvi Murty,Electronics Item 51,Electronics,North,Shadowfax,47289.12,2026-04-26,2026-05-03,2026-05-04,Delayed,Low,1
+ORD-0879,Oni Acharya,Lifestyle Item 62,Lifestyle,Central,Indian Postal Service,21678.72,2026-05-17,2026-05-20,2026-05-18,Delivered,None,0
+ORD-0880,Chanchal Magar,Kitchen Item 63,Kitchen,East,Indian Postal Service,5437.71,2026-05-29,2026-06-03,,In Transit,None,0
+ORD-0881,Netra Jain,Kitchen Item 29,Kitchen,Central,Delhivery,8988.4,2026-04-14,2026-04-20,2026-04-20,Delivered,None,0
+ORD-0882,Hardik Sanghvi,Apparel Item 25,Apparel,East,Bluedart,6729.39,2026-05-08,2026-05-13,2026-05-13,Delivered,None,0
+ORD-0883,Yashodhara Solanki,Home Item 16,Home,East,Ecom Express,9149.85,2026-06-06,2026-06-12,,Stale,High,0
+ORD-0884,Reva Korpal,Electronics Item 74,Electronics,Central,Delhivery,46381.41,2026-05-23,2026-05-30,2026-05-29,Delivered,None,0
+ORD-0885,Anthony Rai,Beauty Item 67,Beauty,South,Shadowfax,6193.23,2026-05-03,2026-05-08,2026-05-18,Delayed,Critical,10
+ORD-0886,Krish Biswas,Beauty Item 5,Beauty,North,Indian Postal Service,2775.44,2026-04-13,2026-04-16,2026-04-30,Delayed,Critical,14
+ORD-0887,Tripti Korpal,Watches Item 66,Watches,West,Shadowfax,18848.57,2026-04-27,2026-05-01,2026-05-03,Delayed,Low,2
+ORD-0888,Daniel Jani,Jewelry Item 99,Jewelry,West,Bluedart,2802.86,2026-04-13,2026-04-16,2026-04-16,Delivered,None,0
+ORD-0889,Manya Chada,Health Item 75,Health,Central,Shipped by Amazon,2856.12,2026-04-22,2026-04-28,2026-04-28,Delivered,None,0
+ORD-0890,Yug Merchant,Entertainment Item 99,Entertainment,North,Shadowfax,284.69,2026-06-04,2026-06-10,,In Transit,None,0
+ORD-0891,Udarsh Bala,Kids Item 83,Kids,South,Bluedart,2285.68,2026-05-18,2026-05-25,2026-05-24,Delivered,None,0
+ORD-0892,Nidra Chandra,Beauty Item 45,Beauty,East,Bluedart,1596.88,2026-06-01,2026-06-08,2026-06-08,Delivered,None,0
+ORD-0893,Damyanti Patla,Kitchen Item 88,Kitchen,South,Shadowfax,5541.09,2026-04-16,2026-04-23,2026-04-22,Delivered,None,0
+ORD-0894,Amol Hayer,Electronics Item 59,Electronics,West,Indian Postal Service,20635.08,2026-05-28,2026-05-31,2026-06-05,Delayed,High,5
+ORD-0895,Manthan Mitra,Apparel Item 39,Apparel,South,Delhivery,9464.51,2026-04-20,2026-04-23,2026-04-23,Delivered,None,0
+ORD-0896,Rushil Ramaswamy,Beauty Item 7,Beauty,South,Shipped by Amazon,1074.62,2026-04-28,2026-05-01,2026-05-04,Delayed,Medium,3
+ORD-0897,Pavani Hari,Kitchen Item 4,Kitchen,West,Shipped by Amazon,18667.55,2026-04-29,2026-05-03,2026-05-01,Delivered,None,0
+ORD-0898,Matthew Agarwal,Electronics Item 91,Electronics,East,Shipped by Amazon,65190.85,2026-04-15,2026-04-18,2026-04-16,Delivered,None,0
+ORD-0899,Manbir Nagarajan,Kids Item 84,Kids,Central,Indian Postal Service,6264.07,2026-05-20,2026-05-25,2026-05-24,Delivered,None,0
+ORD-0900,Jacob Thaman,Jewelry Item 24,Jewelry,West,Delhivery,6774.77,2026-04-21,2026-04-28,2026-04-28,Delivered,None,0
+ORD-0901,Brijesh Palla,Lifestyle Item 34,Lifestyle,East,Bluedart,1411.68,2026-04-15,2026-04-22,2026-04-22,Delivered,None,0
+ORD-0902,Dayita Sethi,Watches Item 93,Watches,West,Shadowfax,12948.13,2026-04-23,2026-04-28,2026-05-11,Delayed,Critical,13
+ORD-0903,Anika Char,Apparel Item 56,Apparel,North,Shipped by Amazon,3769.95,2026-04-25,2026-05-02,2026-04-30,Delivered,None,0
+ORD-0904,Banjeet Rattan,Health Item 82,Health,South,Bluedart,6202.53,2026-04-15,2026-04-21,2026-04-20,Delivered,None,0
+ORD-0905,Harita Chhabra,Lifestyle Item 100,Lifestyle,East,Delhivery,8021.5,2026-05-03,2026-05-10,2026-05-10,Delivered,None,0
+ORD-0906,Vincent Khatri,Watches Item 57,Watches,East,Shadowfax,17775.1,2026-05-13,2026-05-18,2026-05-17,Delivered,None,0
+ORD-0907,Darika Prabhakar,Lifestyle Item 46,Lifestyle,North,Shipped by Amazon,11016.84,2026-04-18,2026-04-24,2026-04-23,Delivered,None,0
+ORD-0908,Tara Sha,Entertainment Item 41,Entertainment,West,Ecom Express,969.62,2026-04-11,2026-04-15,2026-04-15,Delivered,None,0
+ORD-0909,Rehaan Goda,Electronics Item 11,Electronics,West,Indian Postal Service,79309.56,2026-04-25,2026-05-01,2026-05-09,Delayed,Critical,8
+ORD-0910,Yashodhara Nayak,Beauty Item 43,Beauty,Central,Shadowfax,1786.74,2026-05-08,2026-05-15,2026-05-15,Delivered,None,0
+ORD-0911,Radhika Srinivas,Entertainment Item 37,Entertainment,North,Delhivery,613.64,2026-04-28,2026-05-04,2026-05-04,Delivered,None,0
+ORD-0912,Ijaya Dey,Kitchen Item 47,Kitchen,Central,Shadowfax,9434.4,2026-04-10,2026-04-16,,In Transit,None,0
+ORD-0913,Aayush Hegde,Electronics Item 1,Electronics,West,Ecom Express,26976.62,2026-04-18,2026-04-21,2026-04-19,Delivered,None,0
+ORD-0914,Gaurav Chakraborty,Apparel Item 93,Apparel,East,Bluedart,10085.1,2026-05-02,2026-05-07,2026-05-05,Delivered,None,0
+ORD-0915,Max Lanka,Health Item 67,Health,East,Delhivery,10064.06,2026-04-12,2026-04-16,2026-04-17,Delayed,Low,1
+ORD-0916,Sachi Bassi,Entertainment Item 29,Entertainment,West,Bluedart,1243.52,2026-04-09,2026-04-15,2026-04-14,Delivered,None,0
+ORD-0917,Jeevika Bhatt,Beauty Item 72,Beauty,West,Bluedart,4884.04,2026-05-30,2026-06-03,,In Transit,None,0
+ORD-0918,Madhavi Ratti,Jewelry Item 92,Jewelry,West,Indian Postal Service,6590.04,2026-04-22,2026-04-29,2026-04-27,Delivered,None,0
+ORD-0919,Om Chacko,Kids Item 13,Kids,West,Bluedart,17654.51,2026-04-19,2026-04-24,2026-04-23,Delivered,None,0
+ORD-0920,Advaith Sanghvi,Apparel Item 17,Apparel,North,Delhivery,2525.49,2026-04-29,2026-05-02,2026-05-01,Delivered,None,0
+ORD-0921,Yashawini Vyas,Home Item 66,Home,West,Ecom Express,82517.27,2026-04-25,2026-04-29,2026-04-29,Delivered,None,0
+ORD-0922,Bhanumati Handa,Electronics Item 83,Electronics,West,Shipped by Amazon,4047.12,2026-04-08,2026-04-12,,Stale,High,0
+ORD-0923,Janaki Rai,Electronics Item 78,Electronics,West,Shipped by Amazon,36632.15,2026-05-17,2026-05-20,2026-05-20,Delivered,None,0
+ORD-0924,Harini Kapur,Home Item 19,Home,Central,Ecom Express,35840.27,2026-05-08,2026-05-14,2026-05-14,Delivered,None,0
+ORD-0925,Shivansh Jain,Lifestyle Item 69,Lifestyle,South,Delhivery,8996.03,2026-04-18,2026-04-21,2026-04-19,Delivered,None,0
+ORD-0926,Fariq Puri,Jewelry Item 90,Jewelry,West,Ecom Express,5651.6,2026-04-21,2026-04-28,2026-04-28,Delivered,None,0
+ORD-0927,Sneha Bobal,Apparel Item 73,Apparel,West,Delhivery,14438.78,2026-06-03,2026-06-07,2026-06-05,Delivered,None,0
+ORD-0928,Urvashi Bobal,Lifestyle Item 2,Lifestyle,East,Ecom Express,4395.43,2026-04-20,2026-04-27,2026-04-26,Delivered,None,0
+ORD-0929,Gauri Kamdar,Entertainment Item 80,Entertainment,North,Indian Postal Service,489.47,2026-05-02,2026-05-07,2026-05-18,Delayed,Critical,11
+ORD-0930,Avi Gole,Kids Item 64,Kids,East,Delhivery,17485.83,2026-05-05,2026-05-09,2026-05-08,Delivered,None,0
+ORD-0931,Mason Banik,Electronics Item 90,Electronics,South,Ecom Express,76318.07,2026-04-14,2026-04-21,2026-04-20,Delivered,None,0
+ORD-0932,Ekiya Cheema,Watches Item 58,Watches,East,Ecom Express,30022.29,2026-05-01,2026-05-07,2026-05-12,Delayed,High,5
+ORD-0933,Lohit Mukhopadhyay,Kitchen Item 8,Kitchen,North,Indian Postal Service,15324.19,2026-04-19,2026-04-24,2026-05-03,Delayed,Critical,9
+ORD-0934,Hitesh Kannan,Health Item 25,Health,North,Indian Postal Service,6800.78,2026-04-17,2026-04-20,,In Transit,None,0
+ORD-0935,Wyatt Bhargava,Lifestyle Item 47,Lifestyle,West,Shadowfax,20032.91,2026-04-29,2026-05-04,2026-05-03,Delivered,None,0
+ORD-0936,Bhavika Lala,Beauty Item 96,Beauty,North,Bluedart,5456.79,2026-05-12,2026-05-19,2026-05-28,Delayed,Critical,9
+ORD-0937,Gaurangi Reddy,Lifestyle Item 81,Lifestyle,North,Bluedart,12918.5,2026-04-26,2026-05-01,2026-04-29,Delivered,None,0
+ORD-0938,Sai Taneja,Home Item 47,Home,South,Shipped by Amazon,99359.59,2026-06-04,2026-06-10,2026-06-11,Delayed,Low,1
+ORD-0939,Vrishti Yadav,Lifestyle Item 79,Lifestyle,Central,Indian Postal Service,23046.75,2026-04-27,2026-04-30,2026-04-29,Delivered,None,0
+ORD-0940,Aahana Batta,Kids Item 76,Kids,West,Bluedart,14909.03,2026-05-23,2026-05-30,2026-05-29,Delivered,None,0
+ORD-0941,Nakul Karan,Jewelry Item 72,Jewelry,Central,Ecom Express,5547.98,2026-05-19,2026-05-24,2026-05-24,Delivered,None,0
+ORD-0942,Vihaan Kota,Jewelry Item 13,Jewelry,East,Delhivery,9376.77,2026-06-02,2026-06-09,2026-06-18,Delayed,Critical,9
+ORD-0943,Chandani Kota,Kids Item 45,Kids,East,Shipped by Amazon,13594.97,2026-04-24,2026-05-01,2026-05-01,Delivered,None,0
+ORD-0944,Forum Kibe,Entertainment Item 34,Entertainment,East,Delhivery,1641.86,2026-05-12,2026-05-15,2026-05-16,Delayed,Low,1
+ORD-0945,Mitali Joshi,Lifestyle Item 49,Lifestyle,East,Shadowfax,24856.8,2026-04-14,2026-04-18,2026-04-17,Delivered,None,0
+ORD-0946,Harsh Murty,Electronics Item 100,Electronics,South,Shadowfax,50572.3,2026-04-27,2026-04-30,2026-04-28,Delivered,None,0
+ORD-0947,Chanakya Sahota,Kitchen Item 15,Kitchen,North,Indian Postal Service,9416.33,2026-05-19,2026-05-23,,In Transit,None,0
+ORD-0948,Advay Rana,Kids Item 41,Kids,West,Ecom Express,8729.1,2026-04-22,2026-04-27,2026-04-25,Delivered,None,0
+ORD-0949,Wridesh Apte,Electronics Item 23,Electronics,Central,Shadowfax,63649.6,2026-05-27,2026-05-31,2026-05-30,Delivered,None,0
+ORD-0950,Jai Bali,Jewelry Item 27,Jewelry,North,Shipped by Amazon,8405.22,2026-04-28,2026-05-01,2026-04-30,Delivered,None,0
+ORD-0951,Kiaan Bawa,Entertainment Item 13,Entertainment,North,Bluedart,449.88,2026-04-19,2026-04-24,2026-04-24,Delivered,None,0
+ORD-0952,Joshua Rama,Kitchen Item 11,Kitchen,North,Ecom Express,12303.72,2026-04-18,2026-04-25,2026-05-05,Delayed,Critical,10
+ORD-0953,Jatin Sagar,Health Item 91,Health,East,Shipped by Amazon,17051.75,2026-05-19,2026-05-22,2026-05-22,Delivered,None,0
+ORD-0954,Avni Kaul,Health Item 7,Health,West,Bluedart,16328.55,2026-04-14,2026-04-19,2026-04-19,Delivered,None,0
+ORD-0955,Lucky Sengupta,Apparel Item 64,Apparel,East,Delhivery,1801.91,2026-06-01,2026-06-08,2026-06-22,Delayed,Critical,14
+ORD-0956,Radha Sastry,Watches Item 18,Watches,East,Shadowfax,21083.76,2026-04-22,2026-04-28,2026-04-28,Delivered,None,0
+ORD-0957,Vedant Konda,Home Item 61,Home,East,Shadowfax,45900.38,2026-04-22,2026-04-29,2026-04-27,Delivered,None,0
+ORD-0958,Niharika Chahal,Entertainment Item 45,Entertainment,West,Shadowfax,2318.63,2026-04-26,2026-05-02,2026-05-02,Delivered,None,0
+ORD-0959,Kabir Parsa,Kitchen Item 49,Kitchen,South,Bluedart,11327.09,2026-04-22,2026-04-27,2026-04-26,Delivered,None,0
+ORD-0960,Raksha Basak,Kids Item 78,Kids,East,Delhivery,6489.11,2026-04-09,2026-04-15,2026-04-14,Delivered,None,0
+ORD-0961,Faris Shenoy,Kitchen Item 7,Kitchen,Central,Indian Postal Service,5190.83,2026-05-18,2026-05-24,2026-06-03,Delayed,Critical,10
+ORD-0962,Ekaraj Munshi,Beauty Item 45,Beauty,North,Bluedart,5737.25,2026-04-19,2026-04-23,2026-04-23,Delivered,None,0
+ORD-0963,Nimrat Bhasin,Apparel Item 24,Apparel,Central,Shadowfax,8932.42,2026-05-23,2026-05-30,2026-05-29,Delivered,None,0
+ORD-0964,Ladli Rama,Kids Item 82,Kids,East,Shadowfax,14750.12,2026-05-11,2026-05-18,2026-05-24,Delayed,High,6
+ORD-0965,Qabil Patla,Jewelry Item 55,Jewelry,Central,Ecom Express,3965.58,2026-04-20,2026-04-23,2026-05-02,Delayed,Critical,9
+ORD-0966,Vanya Dara,Jewelry Item 25,Jewelry,West,Shipped by Amazon,6136.08,2026-05-08,2026-05-12,2026-05-14,Delayed,Low,2
+ORD-0967,Tejas Sabharwal,Electronics Item 28,Electronics,West,Delhivery,41909.91,2026-05-24,2026-05-30,,Stale,High,0
+ORD-0968,Lekha Kaur,Apparel Item 68,Apparel,South,Indian Postal Service,2846.05,2026-04-26,2026-05-02,,In Transit,None,0
+ORD-0969,Quincy Uppal,Home Item 92,Home,West,Ecom Express,4084.57,2026-04-23,2026-04-28,2026-04-26,Delivered,None,0
+ORD-0970,Vaishnavi Wali,Health Item 20,Health,West,Ecom Express,14602.02,2026-04-27,2026-05-01,2026-04-30,Delivered,None,0
+ORD-0971,Yoshita Grover,Lifestyle Item 35,Lifestyle,West,Shadowfax,11495.81,2026-05-16,2026-05-21,2026-05-20,Delivered,None,0
+ORD-0972,Daksha Murty,Jewelry Item 91,Jewelry,Central,Shipped by Amazon,1823.85,2026-04-17,2026-04-21,2026-04-21,Delivered,None,0
+ORD-0973,Kalpit Soman,Watches Item 63,Watches,West,Shipped by Amazon,23054.36,2026-05-29,2026-06-02,2026-06-01,Delivered,None,0
+ORD-0974,Sachi Venkataraman,Electronics Item 90,Electronics,East,Indian Postal Service,66124.46,2026-04-19,2026-04-22,2026-04-22,Delivered,None,0
+ORD-0975,Bhavani Sani,Beauty Item 26,Beauty,Central,Shadowfax,5129.87,2026-05-30,2026-06-02,2026-06-02,Delivered,None,0
+ORD-0976,Leena Wason,Kids Item 98,Kids,Central,Shipped by Amazon,329.47,2026-04-19,2026-04-26,2026-04-25,Delivered,None,0
+ORD-0977,Devika Bail,Beauty Item 68,Beauty,South,Indian Postal Service,8968.87,2026-05-05,2026-05-08,2026-05-06,Delivered,None,0
+ORD-0978,Indira Pant,Beauty Item 44,Beauty,East,Bluedart,3516.57,2026-05-19,2026-05-24,2026-05-24,Delivered,None,0
+ORD-0979,Ladli Lad,Kitchen Item 51,Kitchen,North,Shipped by Amazon,4103.5,2026-04-21,2026-04-26,2026-04-26,Delivered,None,0
+ORD-0980,Ijaya Lanka,Jewelry Item 74,Jewelry,North,Shadowfax,367.07,2026-06-04,2026-06-10,2026-06-10,Delivered,None,0
+ORD-0981,Yatan Ramesh,Kitchen Item 75,Kitchen,North,Shadowfax,3521.8,2026-06-05,2026-06-09,2026-06-08,Delivered,None,0
+ORD-0982,Lipika Kuruvilla,Home Item 37,Home,North,Ecom Express,26731.62,2026-05-27,2026-06-01,2026-05-30,Delivered,None,0
+ORD-0983,Aarush Thaman,Kitchen Item 86,Kitchen,West,Shadowfax,15835.2,2026-04-30,2026-05-03,2026-05-01,Delivered,None,0
+ORD-0984,Zarna Lal,Kids Item 76,Kids,Central,Shadowfax,7383.01,2026-06-02,2026-06-09,2026-06-09,Delivered,None,0
+ORD-0985,Raghav Bajaj,Kids Item 11,Kids,Central,Indian Postal Service,17763.81,2026-05-18,2026-05-24,,In Transit,None,0
+ORD-0986,Vivaan Nadig,Apparel Item 23,Apparel,North,Delhivery,12079.4,2026-04-12,2026-04-17,2026-04-20,Delayed,Medium,3
+ORD-0987,Chatura Kapadia,Kitchen Item 63,Kitchen,North,Ecom Express,19281.26,2026-05-19,2026-05-24,2026-05-29,Delayed,High,5
+ORD-0988,Qasim Kade,Entertainment Item 51,Entertainment,South,Delhivery,256.16,2026-05-18,2026-05-25,2026-05-25,Delivered,None,0
+ORD-0989,Urvashi Nadkarni,Entertainment Item 25,Entertainment,North,Delhivery,1714.79,2026-04-26,2026-04-29,2026-04-29,Delivered,None,0
+ORD-0990,Darpan Bhakta,Home Item 87,Home,West,Bluedart,77018.03,2026-06-05,2026-06-10,2026-06-09,Delivered,None,0
+ORD-0991,Hredhaan Wable,Entertainment Item 68,Entertainment,North,Indian Postal Service,1425.48,2026-04-19,2026-04-24,2026-04-24,Delivered,None,0
+ORD-0992,Alka Thaker,Kids Item 58,Kids,West,Bluedart,10622.94,2026-06-05,2026-06-09,2026-06-20,Delayed,Critical,11
+ORD-0993,Bachittar Karnik,Beauty Item 15,Beauty,Central,Bluedart,2984.99,2026-05-04,2026-05-08,2026-05-08,Delivered,None,0
+ORD-0994,Chatura Konda,Lifestyle Item 7,Lifestyle,North,Shadowfax,13425.19,2026-05-10,2026-05-14,2026-05-14,Delivered,None,0
+ORD-0995,Aditya Verma,Health Item 65,Health,South,Indian Postal Service,1455.77,2026-05-15,2026-05-18,2026-05-16,Delivered,None,0
+ORD-0996,Charita Dhaliwal,Beauty Item 97,Beauty,North,Shadowfax,8424.25,2026-04-30,2026-05-03,2026-05-13,Delayed,Critical,10
+ORD-0997,Chandani Gour,Lifestyle Item 49,Lifestyle,South,Delhivery,15444.07,2026-05-12,2026-05-18,2026-05-18,Delivered,None,0
+ORD-0998,Vasatika Bal,Jewelry Item 83,Jewelry,North,Delhivery,8672.98,2026-04-13,2026-04-17,2026-04-17,Delivered,None,0
+ORD-0999,Chakradev Karnik,Electronics Item 87,Electronics,West,Indian Postal Service,79487.89,2026-05-11,2026-05-17,2026-05-15,Delivered,None,0
+ORD-1000,Hardik Dey,Lifestyle Item 19,Lifestyle,Central,Shadowfax,21844.3,2026-04-26,2026-04-29,2026-04-27,Delivered,None,0
